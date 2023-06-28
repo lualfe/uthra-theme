@@ -306,7 +306,7 @@
       "accepted_payments": "Nós aceitamos",
       "contact_title": "Entrar em contato",
       "chat_link": "Bate-papo ao vivo",
-      "email_link": "Envia-nos um email",
+      "email_link": "Enviar E-mail",
       "social_title": "Siga-nos",
       "social_platform": "{{ name }} em {{ platform }}"
     }
