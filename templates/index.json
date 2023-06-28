@@ -24,7 +24,7 @@
         "show_wave": true,
         "divider": false,
         "top_padding": false,
-        "bottom_padding": false,
+        "bottom_padding": true,
         "lazyload_images": true
       }
     },
