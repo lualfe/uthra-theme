@@ -3,7 +3,8 @@
     "text-and-image-0": {
       "type": "text-and-image",
       "custom_css": [
-
+        "img {object-fit: contain !important;}",
+        ".feature-row {max-height: 100vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Ativo_21.svg",
@@ -23,7 +24,7 @@
         "show_wave": true,
         "divider": false,
         "top_padding": false,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
