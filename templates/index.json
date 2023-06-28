@@ -87,6 +87,7 @@
     },
     "promo-grid-0": {
       "type": "promo-grid",
+      "disabled": true,
       "blocks": {
         "promo-grid-0-1": {
           "type": "sale_collection",
@@ -134,41 +135,32 @@
         "template--17449255108889__text-with-icons-0-16728578819b5da145-0": {
           "type": "text_block",
           "settings": {
-            "icon": "globe",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "icon": "shield",
+            "title": "Segurança",
+            "text": "<p>Todos os nossos produtos são registrados e aprovados pela Anvisa.<\/p>"
           }
         },
         "template--17449255108889__text-with-icons-0-16728578819b5da145-2": {
           "type": "text_block",
           "settings": {
-            "icon": "recycle",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "icon": "gears",
+            "title": "Comprovação",
+            "text": "<p>Nossas fórmulas são criada com base em pesquisas científicas.<\/p>"
           }
         },
         "template--17449255108889__text-with-icons-0-16728578819b5da145-1": {
           "type": "text_block",
           "settings": {
-            "icon": "ribbon",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
-          }
-        },
-        "template--17449255108889__text-with-icons-0-16728578819b5da145-3": {
-          "type": "text_block",
-          "settings": {
-            "icon": "charity",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "icon": "trophy",
+            "title": "Resultados",
+            "text": "<p>Apenas ingredientes que dão resultados de fato são colocados em nossos produtos.<\/p>"
           }
         }
       },
       "block_order": [
         "template--17449255108889__text-with-icons-0-16728578819b5da145-0",
         "template--17449255108889__text-with-icons-0-16728578819b5da145-2",
-        "template--17449255108889__text-with-icons-0-16728578819b5da145-1",
-        "template--17449255108889__text-with-icons-0-16728578819b5da145-3"
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-1"
       ],
       "settings": {
         "title": "",
