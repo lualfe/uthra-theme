@@ -4,7 +4,7 @@
       "type": "text-and-image",
       "custom_css": [
         "img {object-fit: contain !important;}",
-        ".feature-row {height: calc(100vh-200px);}"
+        ".feature-row {height: 70vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Ativo_21.svg",
