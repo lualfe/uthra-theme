@@ -3,10 +3,11 @@
     "text-and-image-0": {
       "type": "text-and-image",
       "custom_css": [
-
+        ".image-wrap{display: flex; flex-direction: column; align-content: center; align-items: center; justify-content: center;}",
+        "img {max-height: 300px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ativo_210.png",
+        "image": "shopify:\/\/shop_images\/Ativo_21.svg",
         "image_mask": "square",
         "image2_mask": "square",
         "subtitle": "",
