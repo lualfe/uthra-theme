@@ -355,7 +355,7 @@
         "template--17449255108889__countdown-0-167284938864b7b5e1-0": {
           "type": "content",
           "settings": {
-            "heading": "Countdown",
+            "heading": "Contagem Regressiva",
             "heading_size": "h1",
             "text": "",
             "content_alignment": "center"
@@ -364,18 +364,18 @@
         "template--17449255108889__countdown-0-167284938864b7b5e1-2": {
           "type": "button",
           "settings": {
-            "button_link": "",
-            "button": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/frontpage",
+            "button": "Ver Produtos",
             "button_style": "solid"
           }
         },
         "template--17449255108889__countdown-0-167284938864b7b5e1-1": {
           "type": "timer",
           "settings": {
-            "year": "2025",
-            "month": "01",
-            "day": "1",
-            "hour": "03",
+            "year": "2023",
+            "month": "09",
+            "day": "20",
+            "hour": "00",
             "minute": "00",
             "hide_timer": false,
             "text": ""
@@ -416,9 +416,9 @@
     "scrolling-text-0": {
       "type": "scrolling-text",
       "settings": {
-        "text": "Free shipping and returns",
+        "text": "Entregas no mesmo dia para São Paulo capital",
         "link": "",
-        "text_size": 26,
+        "text_size": 20,
         "text_spacing": true,
         "direction": "left",
         "speed": 300,

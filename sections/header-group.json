@@ -1,1 +1,74 @@
-{"type":"header","name":"t:sections.header-group.name","sections":{"toolbar":{"type":"toolbar","blocks":{"toolbar-0":{"type":"announcement","settings":{"richtext":"<p>Hassle-free returns. 30-day postage paid returns<\/p>","richtext_mobile":""}},"toolbar-1":{"type":"announcement","settings":{"richtext":"<p>Hassle-free returns. 30-day postage paid returns<\/p>","richtext_mobile":""}}},"block_order":["toolbar-0","toolbar-1"],"settings":{"announcement_center":false,"toolbar_social":true,"show_locale_selector":true,"show_currency_selector":true,"show_currency_flags":true}},"header":{"type":"header","blocks":{"8b104b0c-c180-4429-9d03-1fbcd1bd233b":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/Ativo_8.svg","desktop_logo_width":100,"mobile_logo_width":140}}},"block_order":["8b104b0c-c180-4429-9d03-1fbcd1bd233b"],"settings":{"main_menu_link_list":"main-menu","hover_menu":true,"main_menu_alignment":"left","mega_products":true,"header_sticky":true,"header_footer_menu":true,"sticky_index":false,"sticky_collection":false}}},"order":["toolbar","header"]}
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "toolbar": {
+      "type": "toolbar",
+      "blocks": {
+        "toolbar-0": {
+          "type": "announcement",
+          "settings": {
+            "richtext": "<p>Entregas no mesmo dia para São Paulo capital.<\/p>",
+            "richtext_mobile": ""
+          }
+        },
+        "toolbar-1": {
+          "type": "announcement",
+          "settings": {
+            "richtext": "<p>Desconto de 10% na primeira compra.<\/p>",
+            "richtext_mobile": ""
+          }
+        },
+        "1a06f1a7-f61f-4952-b7e6-a6167ea51b9d": {
+          "type": "announcement",
+          "settings": {
+            "richtext": "<p>Indique nossos produto e ganhe 10% de desconto.<\/p>",
+            "richtext_mobile": ""
+          }
+        }
+      },
+      "block_order": [
+        "toolbar-0",
+        "toolbar-1",
+        "1a06f1a7-f61f-4952-b7e6-a6167ea51b9d"
+      ],
+      "settings": {
+        "announcement_center": false,
+        "toolbar_social": true,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "show_currency_flags": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "8b104b0c-c180-4429-9d03-1fbcd1bd233b": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Ativo_8.svg",
+            "desktop_logo_width": 100,
+            "mobile_logo_width": 140
+          }
+        }
+      },
+      "block_order": [
+        "8b104b0c-c180-4429-9d03-1fbcd1bd233b"
+      ],
+      "settings": {
+        "main_menu_link_list": "main-menu",
+        "hover_menu": true,
+        "main_menu_alignment": "left",
+        "mega_products": true,
+        "header_sticky": true,
+        "header_footer_menu": true,
+        "sticky_index": false,
+        "sticky_collection": false
+      }
+    }
+  },
+  "order": [
+    "toolbar",
+    "header"
+  ]
+}
