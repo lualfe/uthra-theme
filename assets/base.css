@@ -2344,6 +2344,7 @@ product-info .loading-overlay:not(.hidden) ~ *,
   grid-template-areas: 'left-icons heading icons';
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
+  font-weight: 600;
 }
 
 @media screen and (max-width: 749px) {
