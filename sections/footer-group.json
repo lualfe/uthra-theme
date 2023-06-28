@@ -68,29 +68,19 @@
             "enable_account_link": false
           }
         },
-        "footer-1": {
+        "ec94515a-3a88-452a-b038-bb94e07077d2": {
           "type": "contact",
           "settings": {
-            "phone": "+1 800 123 1234",
+            "phone": "",
             "contact": "",
             "chat": "",
             "enable_social": true
-          }
-        },
-        "footer-2": {
-          "type": "payment",
-          "settings": {
-            "show_payment_icons": true,
-            "show_locale_selector": true,
-            "show_currency_selector": true,
-            "show_currency_flags": true
           }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-1",
-        "footer-2"
+        "ec94515a-3a88-452a-b038-bb94e07077d2"
       ],
       "settings": {
         "show_newsletter": false,
