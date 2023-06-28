@@ -3,7 +3,7 @@
     "text-and-image-0": {
       "type": "text-and-image",
       "custom_css": [
-
+        "img{object-fit: contain!important;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Ativo_21.svg",
