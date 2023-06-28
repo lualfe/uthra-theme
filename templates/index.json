@@ -1,1 +1,449 @@
-{"sections":{"text-and-image-0":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/bxfdfgndrthzs.png","image_mask":"square","image2":"shopify:\/\/shop_images\/Ativo_21.svg","image2_mask":"square","subtitle":"","title":"Suplementos com comprovação científica","heading_size":"h2","text":"<p>Suplementos alimentares criados com base em pesquisas. Na Uthra, colocamos apenas ingredientes que farão a diferença nos seu resultados.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"66","layout":"right","color_scheme":"1","show_wave":true,"divider":false,"top_padding":false,"bottom_padding":true,"lazyload_images":true}},"featured-collection-0":{"type":"featured-collection","settings":{"title":"Featured collection","heading_size":"h3","heading_position":"left","home_featured_products":"","count":6,"products_per_row":3,"mobile_scrollable":true,"view_all":true,"divider":false}},"hero-video-0":{"type":"hero-video","disabled":true,"settings":{"full_width":false,"title":"Bring your\nbrand to life.","title_size":40,"subheading":"Seamless hero videos","link_text":"Optional button","link":"","color_accent":"#ffdaa4","text_align":"vertical-center horizontal-center","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","overlay_opacity":18,"height":450,"height_mobile":350}},"logo-list-0":{"type":"logo-list","disabled":true,"settings":{"title":"","heading_size":"h2","heading_position":"center","divider":false}},"featured-collection-1":{"type":"featured-collection","disabled":true,"settings":{"title":"Featured collection","heading_size":"h2","heading_position":"left","home_featured_products":"","count":8,"products_per_row":4,"mobile_scrollable":true,"view_all":true,"divider":false}},"promo-grid-0":{"type":"promo-grid","blocks":{"promo-grid-0-1":{"type":"sale_collection","settings":{"sale_collection":"","top_text":"Up to","middle_text":"50%","bottom_text":"Off select products","width":"50","color_scheme":"1","image_mask":"splat-3"}},"promo-grid-0-2":{"type":"product","settings":{"product":"","subheading":"","heading":"Announce your product","textarea":"Include text explaining your featured product.","link_label":"Shop","label":"New","enable_price":true,"width":"50","color_scheme":"2","image_mask":"splat-1"}}},"block_order":["promo-grid-0-1","promo-grid-0-2"],"settings":{"full_width":false,"gutter_size":37,"space_above":false,"space_below":false,"lazyload_images":true}},"text-with-icons-0":{"type":"text-with-icons","blocks":{"template--17449255108889__text-with-icons-0-16728578819b5da145-0":{"type":"text_block","settings":{"icon":"globe","title":"Example title","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"}},"template--17449255108889__text-with-icons-0-16728578819b5da145-2":{"type":"text_block","settings":{"icon":"recycle","title":"Example title","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"}},"template--17449255108889__text-with-icons-0-16728578819b5da145-1":{"type":"text_block","settings":{"icon":"ribbon","title":"Example title","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"}},"template--17449255108889__text-with-icons-0-16728578819b5da145-3":{"type":"text_block","settings":{"icon":"charity","title":"Example title","text":"<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"}}},"block_order":["template--17449255108889__text-with-icons-0-16728578819b5da145-0","template--17449255108889__text-with-icons-0-16728578819b5da145-2","template--17449255108889__text-with-icons-0-16728578819b5da145-1","template--17449255108889__text-with-icons-0-16728578819b5da145-3"],"settings":{"title":"","heading_size":"h1","heading_position":"center","desktop_columns_per_row":4,"icon_color":"#cdd4ec","button_label":"","button_link":"","divider":false}},"hotspots-0":{"type":"hotspots","blocks":{"template--17449255108889__hotspots-0-167285017784994d5a-0":{"type":"product","settings":{"featured_product":"","vertical":53,"horizontal":68}},"template--17449255108889__hotspots-0-167285017784994d5a-1":{"type":"product","settings":{"featured_product":"","vertical":46,"horizontal":48}}},"block_order":["template--17449255108889__hotspots-0-167285017784994d5a-0","template--17449255108889__hotspots-0-167285017784994d5a-1"],"settings":{"title":"Shop the look","heading_size":"h2","heading_position":"left","indent_image":true,"image_position":"right","hotspot_style":"bag","hotspot_color":"#d9e1fc","lazyload_images":true}},"testimonials-0":{"type":"testimonials","settings":{"title":"From our customers","align_text":"center","round_images":true,"color_scheme":"none"}},"slideshow-split-0":{"type":"slideshow-split","blocks":{"slideshow-split-0-0":{"type":"slide","settings":{"top_subheading":"","title":"Side by Side Slide","title_size":40,"subheading":"Add optional subtext","link":"","link_text":"Optional button","link_2":"","link_text_2":"","text_position":"left","indent_image":false,"color_scheme":"3"}},"slideshow-split-0-1":{"type":"slide","settings":{"top_subheading":"","title":"Side by Side Slide","title_size":84,"subheading":"","link":"","link_text":"Optional button","link_2":"","link_text_2":"","text_position":"left","indent_image":false,"color_scheme":"2"}},"slideshow-split-0-2":{"type":"slide","settings":{"top_subheading":"","title":"Side by Side Slide","title_size":40,"subheading":"Add optional subtext","link":"","link_text":"","link_2":"","link_text_2":"","text_position":"left","indent_image":false,"color_scheme":"3"}},"slideshow-split-0-3":{"type":"slide","settings":{"top_subheading":"","title":"Side by Side Slide","title_size":40,"subheading":"Add optional subtext","link":"","link_text":"Optional button","link_2":"","link_text_2":"","text_position":"left","indent_image":false,"color_scheme":"1"}}},"block_order":["slideshow-split-0-0","slideshow-split-0-1","slideshow-split-0-2","slideshow-split-0-3"],"settings":{"full_width":false,"height":660,"height_mobile":450,"style":"arrows","autoplay":true,"autoplay_speed":6,"lazyload_images":true}},"featured-collections-2":{"type":"featured-collections","blocks":{"featured-collections-2-0":{"type":"collection","settings":{"collection":"","title":""}},"featured-collections-2-1":{"type":"collection","settings":{"collection":"","title":""}},"featured-collections-2-2":{"type":"collection","settings":{"collection":"","title":""}},"featured-collections-2-3":{"type":"collection","settings":{"collection":"","title":""}}},"block_order":["featured-collections-2-0","featured-collections-2-1","featured-collections-2-2","featured-collections-2-3"],"settings":{"title":"Popular categories","heading_size":"h2","heading_position":"left","divider":false}},"countdown-0":{"type":"countdown","blocks":{"template--17449255108889__countdown-0-167284938864b7b5e1-0":{"type":"content","settings":{"heading":"Countdown","heading_size":"h1","text":"","content_alignment":"center"}},"template--17449255108889__countdown-0-167284938864b7b5e1-2":{"type":"button","settings":{"button_link":"","button":"Shop Collection","button_style":"solid"}},"template--17449255108889__countdown-0-167284938864b7b5e1-1":{"type":"timer","settings":{"year":"2025","month":"01","day":"1","hour":"03","minute":"00","hide_timer":false,"text":""}}},"block_order":["template--17449255108889__countdown-0-167284938864b7b5e1-0","template--17449255108889__countdown-0-167284938864b7b5e1-2","template--17449255108889__countdown-0-167284938864b7b5e1-1"],"settings":{"layout":"hero","full_width":false,"color_scheme":"3","blur_image":true,"overlay_color":"#000000","overlay_opacity":30,"lazyload_images":true}},"blog-posts-0":{"type":"blog-posts","settings":{"title":"From the blog","heading_size":"h3","heading_position":"left","blog":"","blog_show_tags":true,"blog_show_date":true,"blog_show_comments":false,"blog_show_author":false,"blog_show_excerpt":false,"blog_image_size":"wide","divider":false}},"scrolling-text-0":{"type":"scrolling-text","settings":{"text":"Free shipping and returns","link":"","text_size":26,"text_spacing":true,"direction":"left","speed":300,"color_scheme":"none"}}},"order":["text-and-image-0","featured-collection-0","hero-video-0","logo-list-0","featured-collection-1","promo-grid-0","text-with-icons-0","hotspots-0","testimonials-0","slideshow-split-0","featured-collections-2","countdown-0","blog-posts-0","scrolling-text-0"]}
+{
+  "sections": {
+    "text-and-image-0": {
+      "type": "text-and-image",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ativo_21.svg",
+        "image_mask": "square",
+        "image2_mask": "square",
+        "subtitle": "",
+        "title": "Suplementos com comprovação científica",
+        "heading_size": "h2",
+        "text": "<p>Suplementos alimentares criados com base em pesquisas. Na Uthra, colocamos apenas ingredientes que farão a diferença nos seu resultados.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured-collection-0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "home_featured_products": "",
+        "count": 6,
+        "products_per_row": 3,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "hero-video-0": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "title": "Bring your\nbrand to life.",
+        "title_size": 40,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "#ffdaa4",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 18,
+        "height": 450,
+        "height_mobile": 350
+      }
+    },
+    "logo-list-0": {
+      "type": "logo-list",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "heading_position": "center",
+        "divider": false
+      }
+    },
+    "featured-collection-1": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "home_featured_products": "",
+        "count": 8,
+        "products_per_row": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "promo-grid-0": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo-grid-0-1": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "",
+            "top_text": "Up to",
+            "middle_text": "50%",
+            "bottom_text": "Off select products",
+            "width": "50",
+            "color_scheme": "1",
+            "image_mask": "splat-3"
+          }
+        },
+        "promo-grid-0-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "subheading": "",
+            "heading": "Announce your product",
+            "textarea": "Include text explaining your featured product.",
+            "link_label": "Shop",
+            "label": "New",
+            "enable_price": true,
+            "width": "50",
+            "color_scheme": "2",
+            "image_mask": "splat-1"
+          }
+        }
+      },
+      "block_order": [
+        "promo-grid-0-1",
+        "promo-grid-0-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 37,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "text-with-icons-0": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "ribbon",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-0",
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-2",
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-1",
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#cdd4ec",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "hotspots-0": {
+      "type": "hotspots",
+      "blocks": {
+        "template--17449255108889__hotspots-0-167285017784994d5a-0": {
+          "type": "product",
+          "settings": {
+            "featured_product": "",
+            "vertical": 53,
+            "horizontal": 68
+          }
+        },
+        "template--17449255108889__hotspots-0-167285017784994d5a-1": {
+          "type": "product",
+          "settings": {
+            "featured_product": "",
+            "vertical": 46,
+            "horizontal": 48
+          }
+        }
+      },
+      "block_order": [
+        "template--17449255108889__hotspots-0-167285017784994d5a-0",
+        "template--17449255108889__hotspots-0-167285017784994d5a-1"
+      ],
+      "settings": {
+        "title": "Shop the look",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "indent_image": true,
+        "image_position": "right",
+        "hotspot_style": "bag",
+        "hotspot_color": "#d9e1fc",
+        "lazyload_images": true
+      }
+    },
+    "testimonials-0": {
+      "type": "testimonials",
+      "settings": {
+        "title": "From our customers",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "none"
+      }
+    },
+    "slideshow-split-0": {
+      "type": "slideshow-split",
+      "blocks": {
+        "slideshow-split-0-0": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "Side by Side Slide",
+            "title_size": 40,
+            "subheading": "Add optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "indent_image": false,
+            "color_scheme": "3"
+          }
+        },
+        "slideshow-split-0-1": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "Side by Side Slide",
+            "title_size": 84,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "indent_image": false,
+            "color_scheme": "2"
+          }
+        },
+        "slideshow-split-0-2": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "Side by Side Slide",
+            "title_size": 40,
+            "subheading": "Add optional subtext",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "indent_image": false,
+            "color_scheme": "3"
+          }
+        },
+        "slideshow-split-0-3": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "Side by Side Slide",
+            "title_size": 40,
+            "subheading": "Add optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "indent_image": false,
+            "color_scheme": "1"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-split-0-0",
+        "slideshow-split-0-1",
+        "slideshow-split-0-2",
+        "slideshow-split-0-3"
+      ],
+      "settings": {
+        "full_width": false,
+        "height": 660,
+        "height_mobile": 450,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "lazyload_images": true
+      }
+    },
+    "featured-collections-2": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-2-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured-collections-2-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured-collections-2-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured-collections-2-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-2-0",
+        "featured-collections-2-1",
+        "featured-collections-2-2",
+        "featured-collections-2-3"
+      ],
+      "settings": {
+        "title": "Popular categories",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "divider": false
+      }
+    },
+    "countdown-0": {
+      "type": "countdown",
+      "blocks": {
+        "template--17449255108889__countdown-0-167284938864b7b5e1-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Countdown",
+            "heading_size": "h1",
+            "text": "",
+            "content_alignment": "center"
+          }
+        },
+        "template--17449255108889__countdown-0-167284938864b7b5e1-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        },
+        "template--17449255108889__countdown-0-167284938864b7b5e1-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2025",
+            "month": "01",
+            "day": "1",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17449255108889__countdown-0-167284938864b7b5e1-0",
+        "template--17449255108889__countdown-0-167284938864b7b5e1-2",
+        "template--17449255108889__countdown-0-167284938864b7b5e1-1"
+      ],
+      "settings": {
+        "layout": "hero",
+        "full_width": false,
+        "color_scheme": "3",
+        "blur_image": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "lazyload_images": true
+      }
+    },
+    "blog-posts-0": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "From the blog",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "blog": "",
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "scrolling-text-0": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "Free shipping and returns",
+        "link": "",
+        "text_size": 26,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 300,
+        "color_scheme": "none"
+      }
+    }
+  },
+  "order": [
+    "text-and-image-0",
+    "featured-collection-0",
+    "hero-video-0",
+    "logo-list-0",
+    "featured-collection-1",
+    "promo-grid-0",
+    "text-with-icons-0",
+    "hotspots-0",
+    "testimonials-0",
+    "slideshow-split-0",
+    "featured-collections-2",
+    "countdown-0",
+    "blog-posts-0",
+    "scrolling-text-0"
+  ]
+}
