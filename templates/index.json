@@ -3,10 +3,10 @@
     "text-and-image-0": {
       "type": "text-and-image",
       "custom_css": [
-        "img{object-fit: contain!important;}"
+        "img {object-fit: none !important;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ativo_21.svg",
+        "image": "shopify:\/\/shop_images\/Ativo_210.png",
         "image_mask": "square",
         "image2_mask": "square",
         "subtitle": "",
