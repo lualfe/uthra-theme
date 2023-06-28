@@ -400,7 +400,7 @@
     "blog-posts-0": {
       "type": "blog-posts",
       "settings": {
-        "title": "From the blog",
+        "title": "Blog",
         "heading_size": "h3",
         "heading_position": "left",
         "blog": "",
