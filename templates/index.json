@@ -3,11 +3,11 @@
     "text-and-image-0": {
       "type": "text-and-image",
       "custom_css": [
-        "img {object-fit: contain !important;}",
+        "img {object-fit: scale-down !important;}",
         ".feature-row {height: 75vh;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ativo_21.svg",
+        "image": "shopify:\/\/shop_images\/Ativo_22.svg",
         "image_mask": "square",
         "image2_mask": "square",
         "subtitle": "",
@@ -183,6 +183,7 @@
     },
     "hotspots-0": {
       "type": "hotspots",
+      "disabled": true,
       "blocks": {
         "template--17449255108889__hotspots-0-167285017784994d5a-0": {
           "type": "product",
@@ -218,6 +219,7 @@
     },
     "testimonials-0": {
       "type": "testimonials",
+      "disabled": true,
       "settings": {
         "title": "From our customers",
         "align_text": "center",
@@ -311,6 +313,7 @@
     },
     "featured-collections-2": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "featured-collections-2-0": {
           "type": "collection",
