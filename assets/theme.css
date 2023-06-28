@@ -1,50 +1,5 @@
 @charset "UTF-8";
 
-@font-face {
-  font-family: 'Highman';
-  src: url('Highman-Regular.woff2') format('woff2'),
-      url('Highman-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Standerd';
-  src: url('Standerd-Bold.woff2') format('woff2'),
-      url('Standerd-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Standerd';
-  src: url('Standerd-Regular.woff2') format('woff2'),
-      url('Standerd-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Standerd';
-  src: url('Standerd-SemiBold.woff2') format('woff2'),
-      url('Standerd-SemiBold.woff') format('woff');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Standerd';
-  src: url('Standerd-Thin.woff2') format('woff2'),
-      url('Standerd-Thin.woff') format('woff');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-
 /*!
   Fetch, by Archetype Themes
   http://archetypethemes.co
