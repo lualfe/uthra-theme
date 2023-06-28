@@ -72,7 +72,7 @@
           "type": "contact",
           "settings": {
             "phone": "",
-            "contact": "",
+            "contact": "contato",
             "chat": "",
             "enable_social": true
           }
