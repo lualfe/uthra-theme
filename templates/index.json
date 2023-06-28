@@ -31,12 +31,12 @@
     "featured-collection-0": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Produtos",
         "heading_size": "h3",
         "heading_position": "left",
         "home_featured_products": "",
-        "count": 6,
-        "products_per_row": 3,
+        "count": 5,
+        "products_per_row": 2,
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
