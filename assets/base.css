@@ -1,3 +1,21 @@
+@font-face {
+  font-family: 'Highman';
+  src: url('./Highman-Regular.woff2') format('woff2'),
+      url('/.Highman-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Standerd';
+  src: url('Standerd-Regular.woff2') format('woff2'),
+      url('Standerd-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* Color custom properties */
 
 :root,
