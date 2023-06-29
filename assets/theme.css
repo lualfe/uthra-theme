@@ -1,5 +1,50 @@
 @charset "UTF-8";
 
+@font-face {
+  font-family: 'Highman';
+  src: url('./Highman-Regular.woff2') format('woff2'),
+      url('./Highman-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Standerd';
+  src: url('./Standerd-Bold.woff2') format('woff2'),
+      url('./Standerd-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Standerd';
+  src: url('./Standerd-Regular.woff2') format('woff2'),
+      url('./Standerd-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Standerd';
+  src: url('./Standerd-SemiBold.woff2') format('woff2'),
+      url('./Standerd-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Standerd';
+  src: url('./Standerd-Thin.woff2') format('woff2'),
+      url('./Standerd-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
 /*!
   Fetch, by Archetype Themes
   http://archetypethemes.co
@@ -15,45 +60,45 @@
   --colorBtnPrimary:#d9e1fc;
   --colorBtnPrimaryLight:#ffffff;
   --colorBtnPrimaryDim:#c1cefa;
-  --colorBtnPrimaryText:#101123;
+  --colorBtnPrimaryText:#252a36;
 
   --colorCartDot:#e1e8ff;
-  --colorCartDotText:#101123;
+  --colorCartDotText:#252a36;
 
   --colorFooter:#ffffff;
   --colorFooterBorder:#f2f4f7;
-  --colorFooterText:#101123;
+  --colorFooterText:#252a36;
 
-  --colorLink:#101123;
+  --colorLink:#252a36;
 
   --colorModalBg:#e0e0e0;
 
   --colorNav:#ffffff;
   --colorNavSearch:#e5e8ed;
-  --colorNavText:#101123;
+  --colorNavText:#252a36;
 
-  --colorPrice:#58596a;
+  --colorPrice:#fca76e;
 
-  --colorSaleTag:#f9dfcf;
-  --colorSaleTagText:#101123;
+  --colorSaleTag:#fdd3b7;
+  --colorSaleTagText:#252a36;
 
-  --colorScheme1Text:#101123;
+  --colorScheme1Text:#252a36;
   --colorScheme1Bg:#ffffff;
-  --colorScheme2Text:#101123;
+  --colorScheme2Text:#252a36;
   --colorScheme2Bg:#ffffff;
   --colorScheme3Text:#ffffff;
-  --colorScheme3Bg:#1d1c2d;
+  --colorScheme3Bg:#252a36;
 
-  --colorTextBody:#101123;
-  --colorTextBodyAlpha005:rgba(16, 17, 35, 0.05);
-  --colorTextBodyAlpha008:rgba(16, 17, 35, 0.08);
-  --colorTextSavings:#d10000;
+  --colorTextBody:#252a36;
+  --colorTextBodyAlpha005:rgba(37, 42, 54, 0.05);
+  --colorTextBodyAlpha008:rgba(37, 42, 54, 0.08);
+  --colorTextSavings:#00af66;
 
   --colorToolbar:#ffffff;
   --colorToolbarText:#000000;
 
-  --urlIcoSelect:url(//cdn.shopify.com/s/files/1/0769/0108/9599/t/2/assets/ico-select.svg);
-  --urlSwirlSvg:url(//cdn.shopify.com/s/files/1/0769/0108/9599/t/2/assets/swirl.svg);
+  --urlIcoSelect:url(//cdn.shopify.com/s/files/1/0769/0108/9599/t/3/assets/ico-select.svg);
+  --urlSwirlSvg:url(//cdn.shopify.com/s/files/1/0769/0108/9599/t/3/assets/swirl.svg);
 
   --header-padding-bottom:0;
 
@@ -71,7 +116,7 @@
   --newsletterReminderPadding:20px 30px 20px 25px;
 
   --textFrameMargin:10px;
-  --color-body-text:#101123;
+  --color-body-text:#252a36;
   --color-body:#ffffff;
   --color-bg:#ffffff;
 }
