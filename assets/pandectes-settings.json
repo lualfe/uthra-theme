@@ -1,11 +1,11 @@
 {
   "store": {
-    "plan": null,
+    "plan": "basic",
     "theme": "uthra-theme\/main",
     "primaryLocale": "pt",
     "adminMode": false
   },
-  "tsPublished": 1688088760,
+  "tsPublished": 1688089304,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -313,7 +313,7 @@
       }
     },
     "content": {
-      "href": "https:\/\/06f8ba-3.myshopify.com\/policies\/privacy-policy",
+      "href": "https:\/\/uthra.com.br\/pages\/politica-de-privacidade",
       "imprintHref": "\/",
       "close": "&#10005;",
       "target": "",
