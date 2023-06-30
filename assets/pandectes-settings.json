@@ -1,0 +1,667 @@
+{
+  "store": {
+    "plan": null,
+    "theme": "uthra-theme\/main",
+    "primaryLocale": "pt",
+    "adminMode": false
+  },
+  "tsPublished": 1688088760,
+  "declaration": {
+    "showPurpose": false,
+    "showProvider": false,
+    "declIntroText": "Usamos cookies para otimizar a funcionalidade do site, analisar o desempenho e fornecer uma experiência personalizada para você. Alguns cookies são essenciais para que o site funcione e funcione corretamente. Esses cookies não podem ser desativados. Nesta janela pode gerir a sua preferência de cookies.",
+    "showDateGenerated": true
+  },
+  "language": {
+    "languageMode": "Single",
+    "fallbackLanguage": "pt",
+    "languageDetection": "browser",
+    "languagesSupported": [
+
+    ]
+  },
+  "texts": {
+    "managed": {
+      "headerText": {
+        "pt": "Nós respeitamos sua privacidade"
+      },
+      "consentText": {
+        "pt": "Este site usa cookies para garantir que você obtenha a melhor experiência."
+      },
+      "dismissButtonText": {
+        "pt": "OK"
+      },
+      "linkText": {
+        "pt": "Saber mais"
+      },
+      "imprintText": {
+        "pt": "Imprimir"
+      },
+      "preferencesButtonText": {
+        "pt": "Preferências"
+      },
+      "allowButtonText": {
+        "pt": "Aceitar"
+      },
+      "denyButtonText": {
+        "pt": "Declínio"
+      },
+      "leaveSiteButtonText": {
+        "pt": "Saia deste site"
+      },
+      "cookiePolicyText": {
+        "pt": "Política de Cookies"
+      },
+      "preferencesPopupTitleText": {
+        "pt": "Gerenciar preferências de consentimento"
+      },
+      "preferencesPopupIntroText": {
+        "pt": "Usamos cookies para otimizar a funcionalidade do site, analisar o desempenho e fornecer uma experiência personalizada para você. Alguns cookies são essenciais para que o site funcione e funcione corretamente. Esses cookies não podem ser desativados. Nesta janela você pode gerenciar sua preferência de cookies."
+      },
+      "preferencesPopupCloseButtonText": {
+        "pt": "Fechar"
+      },
+      "preferencesPopupAcceptAllButtonText": {
+        "pt": "Aceitar tudo"
+      },
+      "preferencesPopupRejectAllButtonText": {
+        "pt": "Rejeitar tudo"
+      },
+      "preferencesPopupSaveButtonText": {
+        "pt": "Salvar preferências"
+      },
+      "accessSectionTitleText": {
+        "pt": "Portabilidade de dados"
+      },
+      "accessSectionParagraphText": {
+        "pt": "Você tem o direito de acessar seus dados a qualquer momento."
+      },
+      "rectificationSectionTitleText": {
+        "pt": "Retificação de Dados"
+      },
+      "rectificationSectionParagraphText": {
+        "pt": "Você tem o direito de solicitar que seus dados sejam atualizados sempre que considerar apropriado."
+      },
+      "erasureSectionTitleText": {
+        "pt": "Direito de ser esquecido"
+      },
+      "erasureSectionParagraphText": {
+        "pt": "Você tem o direito de solicitar que todos os seus dados sejam apagados. Depois disso, você não poderá mais acessar sua conta."
+      },
+      "declIntroText": {
+        "pt": "Usamos cookies para otimizar a funcionalidade do site, analisar o desempenho e fornecer uma experiência personalizada para você. Alguns cookies são essenciais para que o site funcione e funcione corretamente. Esses cookies não podem ser desativados. Nesta janela pode gerir a sua preferência de cookies."
+      }
+    },
+    "categories": {
+      "strictlyNecessaryCookiesTitleText": {
+        "pt": "Cookies estritamente necessários"
+      },
+      "functionalityCookiesTitleText": {
+        "pt": "Cookies funcionais"
+      },
+      "performanceCookiesTitleText": {
+        "pt": "Cookies de desempenho"
+      },
+      "targetingCookiesTitleText": {
+        "pt": "Cookies de segmentação"
+      },
+      "unclassifiedCookiesTitleText": {
+        "pt": "Cookies não classificados"
+      },
+      "strictlyNecessaryCookiesDescriptionText": {
+        "pt": "Esses cookies são essenciais para permitir que você navegue pelo site e use seus recursos, como acessar áreas seguras do site. O site não pode funcionar corretamente sem esses cookies."
+      },
+      "functionalityCookiesDescriptionText": {
+        "pt": "Esses cookies permitem que o site forneça funcionalidade e personalização aprimoradas. Eles podem ser definidos por nós ou por fornecedores terceiros cujos serviços adicionamos às nossas páginas. Se você não permitir esses cookies, alguns ou todos esses serviços podem não funcionar corretamente."
+      },
+      "performanceCookiesDescriptionText": {
+        "pt": "Esses cookies nos permitem monitorar e melhorar o desempenho do nosso site. Por exemplo, eles nos permitem contar visitas, identificar fontes de tráfego e ver quais partes do site são mais populares."
+      },
+      "targetingCookiesDescriptionText": {
+        "pt": "Esses cookies podem ser definidos em nosso site por nossos parceiros de publicidade. Eles podem ser usados por essas empresas para construir um perfil de seus interesses e mostrar anúncios relevantes em outros sites. Eles não armazenam informações pessoais diretamente, mas se baseiam na identificação exclusiva de seu navegador e dispositivo de Internet. Se você não permitir esses cookies, terá publicidade menos direcionada."
+      },
+      "unclassifiedCookiesDescriptionText": {
+        "pt": "Cookies não classificados são cookies que estamos em processo de classificação, juntamente com os fornecedores de cookies individuais."
+      }
+    },
+    "auto": {
+      "declName": {
+        "pt": "Nome"
+      },
+      "declPath": {
+        "pt": "Caminho"
+      },
+      "declType": {
+        "pt": "Modelo"
+      },
+      "declDomain": {
+        "pt": "Domínio"
+      },
+      "declPurpose": {
+        "pt": "Propósito"
+      },
+      "declProvider": {
+        "pt": "Fornecedor"
+      },
+      "declRetention": {
+        "pt": "Retenção"
+      },
+      "declFirstParty": {
+        "pt": "First-party"
+      },
+      "declThirdParty": {
+        "pt": "Terceiro"
+      },
+      "declSeconds": {
+        "pt": "segundos"
+      },
+      "declMinutes": {
+        "pt": "minutos"
+      },
+      "declHours": {
+        "pt": "horas"
+      },
+      "declDays": {
+        "pt": "dias"
+      },
+      "declMonths": {
+        "pt": "meses"
+      },
+      "declYears": {
+        "pt": "anos"
+      },
+      "declSession": {
+        "pt": "Sessão"
+      },
+      "cookiesDetailsText": {
+        "pt": "Detalhes de cookies"
+      },
+      "preferencesPopupAlwaysAllowedText": {
+        "pt": "Sempre permitido"
+      },
+      "submitButton": {
+        "pt": "Enviar"
+      },
+      "submittingButton": {
+        "pt": "Enviando ..."
+      },
+      "cancelButton": {
+        "pt": "Cancelar"
+      },
+      "guestsSupportInfoText": {
+        "pt": "Faça login com sua conta de cliente para prosseguir."
+      },
+      "guestsSupportEmailPlaceholder": {
+        "pt": "Endereço de e-mail"
+      },
+      "guestsSupportEmailValidationError": {
+        "pt": "E-mail não é válido"
+      },
+      "guestsSupportEmailSuccessTitle": {
+        "pt": "Obrigado pelo seu pedido"
+      },
+      "guestsSupportEmailFailureTitle": {
+        "pt": "Ocorreu um problema"
+      },
+      "guestsSupportEmailSuccessMessage": {
+        "pt": "Caso você esteja cadastrado como cliente desta loja, em breve receberá um e-mail com instruções de como proceder."
+      },
+      "guestsSupportEmailFailureMessage": {
+        "pt": "Sua solicitação não foi enviada. Tente novamente e se o problema persistir, entre em contato com o proprietário da loja para obter ajuda."
+      },
+      "confirmationSuccessTitle": {
+        "pt": "Sua solicitação foi verificada"
+      },
+      "confirmationFailureTitle": {
+        "pt": "Ocorreu um problema"
+      },
+      "confirmationSuccessMessage": {
+        "pt": "Em breve entraremos em contato com você sobre sua solicitação."
+      },
+      "confirmationFailureMessage": {
+        "pt": "Sua solicitação não foi verificada. Tente novamente e se o problema persistir, entre em contato com o proprietário da loja para obter ajuda"
+      },
+      "consentSectionTitleText": {
+        "pt": "Seu consentimento de cookies"
+      },
+      "consentSectionNoConsentText": {
+        "pt": "Você não concordou com a política de cookies deste site."
+      },
+      "consentSectionConsentedText": {
+        "pt": "Você consentiu com a política de cookies deste site em"
+      },
+      "consentStatus": {
+        "pt": "preferência de consentimento"
+      },
+      "consentDate": {
+        "pt": "Data de consentimento"
+      },
+      "consentId": {
+        "pt": "ID de consentimento"
+      },
+      "consentSectionChangeConsentActionText": {
+        "pt": "Alterar preferência de consentimento"
+      },
+      "accessSectionGDPRRequestsActionText": {
+        "pt": "Solicitações de titulares de dados"
+      },
+      "accessSectionAccountInfoActionText": {
+        "pt": "Dados pessoais"
+      },
+      "accessSectionOrdersRecordsActionText": {
+        "pt": "Pedidos"
+      },
+      "accessSectionDownloadReportActionText": {
+        "pt": "Baixar tudo"
+      },
+      "rectificationCommentPlaceholder": {
+        "pt": "Descreva o que você deseja que seja atualizado"
+      },
+      "rectificationCommentValidationError": {
+        "pt": "O comentário é obrigatório"
+      },
+      "rectificationSectionEditAccountActionText": {
+        "pt": "Solicite uma atualização"
+      },
+      "erasureSectionRequestDeletionActionText": {
+        "pt": "Solicitar exclusão de dados pessoais"
+      }
+    }
+  },
+  "library": {
+    "previewMode": false,
+    "fadeInTimeout": 0,
+    "defaultBlocked": 7,
+    "showLink": true,
+    "showImprintLink": false,
+    "enabled": true,
+    "cookie": {
+      "name": "_pandectes_gdpr",
+      "expiryDays": 365,
+      "secure": true
+    },
+    "dismissOnScroll": false,
+    "dismissOnWindowClick": false,
+    "dismissOnTimeout": false,
+    "palette": {
+      "popup": {
+        "background": "#FFFFFF",
+        "backgroundForCalculations": {
+          "a": 1,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "text": "#000000"
+      },
+      "button": {
+        "background": "transparent",
+        "backgroundForCalculations": {
+          "a": 1,
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "text": "#000000",
+        "textForCalculation": {
+          "a": 1,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "border": "#000000"
+      }
+    },
+    "content": {
+      "href": "https:\/\/06f8ba-3.myshopify.com\/policies\/privacy-policy",
+      "imprintHref": "\/",
+      "close": "&#10005;",
+      "target": "",
+      "logo": "<img class=\"cc-banner-logo\" height=\"40\" width=\"40\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0769\/0108\/9599\/t\/4\/assets\/pandectes-logo.png?v=1688088752\" alt=\"Uthra\" \/>"
+    },
+    "window": "<div role=\"dialog\" aria-live=\"polite\" aria-label=\"cookieconsent\" aria-describedby=\"cookieconsent:desc\" id=\"pandectes-banner\" class=\"cc-window-wrapper cc-top-wrapper\"><div class=\"pd-cookie-banner-window cc-window {{classes}}\"><!--googleoff: all-->{{children}}<!--googleon: all--><\/div><\/div>",
+    "compliance": {
+      "opt-both": "<div class=\"cc-compliance cc-highlight\">{{deny}}{{allow}}<\/div>"
+    },
+    "type": "opt-both",
+    "layouts": {
+      "basic": "{{logo}}{{messagelink}}{{compliance}}{{close}}"
+    },
+    "position": "top",
+    "theme": "wired",
+    "revokable": true,
+    "animateRevokable": false,
+    "revokableReset": false,
+    "revokableLogoUrl": "https:\/\/cdn.shopify.com\/s\/files\/1\/0769\/0108\/9599\/t\/4\/assets\/pandectes-reopen-logo.png?v=1688088752",
+    "revokablePlacement": "bottom-left",
+    "revokableMarginHorizontal": 15,
+    "revokableMarginVertical": 15,
+    "static": false,
+    "autoAttach": true,
+    "hasTransition": true,
+    "blacklistPage": [
+      ""
+    ]
+  },
+  "geolocation": {
+    "brOnly": false,
+    "caOnly": false,
+    "euOnly": false,
+    "jpOnly": false,
+    "thOnly": false,
+    "canadaOnly": false,
+    "globalVisibility": true
+  },
+  "dsr": {
+    "guestsSupport": false,
+    "accessSectionDownloadReportAuto": false
+  },
+  "banner": {
+    "resetTs": 1688088751,
+    "extraCss": "        .cc-banner-logo {max-width: 24em!important;}    @media(min-width: 768px) {.cc-window.cc-floating{max-width: 24em!important;width: 24em!important;}}    .cc-message, .cc-header, .cc-logo {text-align: left}    .cc-window-wrapper{z-index: 2147483647;}    .cc-window{z-index: 2147483647;font-family: inherit;}    .cc-header{font-family: inherit;}    .pd-cp-ui{font-family: inherit; background-color: #FFFFFF;color:#000000;}    .pd-cp-btn{}    input + .pd-cp-preferences-slider{background-color: rgba(0, 0, 0, 0.3)}    .pd-cp-scrolling-section::-webkit-scrollbar{background-color: rgba(0, 0, 0, 0.3)}    input:checked + .pd-cp-preferences-slider{background-color: rgba(0, 0, 0, 1)}    .pd-cp-scrolling-section::-webkit-scrollbar-thumb {background-color: rgba(0, 0, 0, 1)}    .pd-cp-ui-close{color:#000000;}    .pd-cp-preferences-slider:before{background-color: #FFFFFF}    .pd-cp-title:before {border-color: #000000!important}    .pd-cp-preferences-slider{background-color:#000000}    .pd-cp-toggle{color:#000000!important}    @media(max-width:699px) {.pd-cp-ui-close-top svg {fill: #000000}}    .pd-cp-toggle:hover,.pd-cp-toggle:visited,.pd-cp-toggle:active{color:#000000!important}    .pd-cookie-banner-window {box-shadow: 0 0 18px rgb(0 0 0 \/ 20%);}  ",
+    "customJavascript": null,
+    "showPoweredBy": false,
+    "isActive": false,
+    "implicitSavePreferences": false,
+    "cookieIcon": false,
+    "blockBots": false,
+    "showCookiesDetails": true,
+    "cookiesBlockedByDefault": "7",
+    "hasTransition": true,
+    "blockingPage": false,
+    "showOnlyLandingPage": false,
+    "leaveSiteUrl": "https:\/\/www.google.com",
+    "linkRespectStoreLang": false
+  },
+  "cookies": {
+    "0": [
+      {
+        "name": "secure_customer_sig",
+        "domain": "uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "pt": "Used in connection with customer login."
+        }
+      },
+      {
+        "name": "localization",
+        "domain": "uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "pt": "Shopify store localization"
+        }
+      },
+      {
+        "name": "_cmp_a",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "24 hour(s)",
+        "expires": 24,
+        "unit": "declHours",
+        "purpose": {
+          "pt": "Used for managing customer privacy settings."
+        }
+      },
+      {
+        "name": "keep_alive",
+        "domain": "uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "pt": "Used in connection with buyer localization."
+        }
+      },
+      {
+        "name": "_tracking_consent",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "pt": "Tracking preferences."
+        }
+      }
+    ],
+    "1": [
+
+    ],
+    "2": [
+      {
+        "name": "_y",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "pt": "Shopify analytics."
+        }
+      },
+      {
+        "name": "_shopify_s",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "pt": "Shopify analytics."
+        }
+      },
+      {
+        "name": "_s",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "pt": "Shopify analytics."
+        }
+      },
+      {
+        "name": "_orig_referrer",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "14 day(s)",
+        "expires": 14,
+        "unit": "declSession",
+        "purpose": {
+          "pt": "Tracks landing pages."
+        }
+      },
+      {
+        "name": "_shopify_y",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "pt": "Shopify analytics."
+        }
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".cdn.shopify.com",
+        "path": "\/",
+        "provider": "CloudFlare",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "pt": "Used to manage incoming traffic that matches criteria associated with bots."
+        }
+      },
+      {
+        "name": "_landing_page",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "14 day(s)",
+        "expires": 14,
+        "unit": "declSession",
+        "purpose": {
+          "pt": "Tracks landing pages."
+        }
+      },
+      {
+        "name": "_shopify_sa_p",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "pt": "Shopify analytics relating to marketing & referrals."
+        }
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "CloudFlare",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "pt": "Used to manage incoming traffic that matches criteria associated with bots."
+        }
+      },
+      {
+        "name": "_shopify_sa_t",
+        "domain": ".uthra.com.br",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "pt": "Shopify analytics relating to marketing & referrals."
+        }
+      }
+    ],
+    "4": [
+
+    ],
+    "8": [
+
+    ]
+  },
+  "blocker": {
+    "isActive": false,
+    "googleConsentMode": {
+      "id": "",
+      "analyticsId": "",
+      "isActive": false,
+      "adStorageCategory": 4,
+      "analyticsStorageCategory": 2,
+      "personalizationStorageCategory": 1,
+      "functionalityStorageCategory": 1,
+      "customEvent": true,
+      "securityStorageCategory": 0,
+      "redactData": true,
+      "urlPassthrough": false
+    },
+    "facebookPixel": {
+      "id": "",
+      "isActive": false,
+      "ldu": false
+    },
+    "rakuten": {
+      "isActive": false,
+      "cmp": false,
+      "ccpa": false
+    },
+    "gpcIsActive": false,
+    "defaultBlocked": 7,
+    "patterns": {
+      "whiteList": [
+
+      ],
+      "blackList": {
+        "1": [
+
+        ],
+        "2": [
+
+        ],
+        "4": [
+
+        ],
+        "8": [
+
+        ]
+      },
+      "iframesWhiteList": [
+
+      ],
+      "iframesBlackList": {
+        "1": [
+
+        ],
+        "2": [
+
+        ],
+        "4": [
+
+        ],
+        "8": [
+
+        ]
+      },
+      "beaconsWhiteList": [
+
+      ],
+      "beaconsBlackList": {
+        "1": [
+
+        ],
+        "2": [
+
+        ],
+        "4": [
+
+        ],
+        "8": [
+
+        ]
+      }
+    }
+  }
+}
