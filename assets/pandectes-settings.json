@@ -5,7 +5,7 @@
     "primaryLocale": "pt",
     "adminMode": false
   },
-  "tsPublished": 1688089372,
+  "tsPublished": 1688089520,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -319,7 +319,7 @@
       "target": "",
       "logo": "<img class=\"cc-banner-logo\" height=\"40\" width=\"40\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0769\/0108\/9599\/t\/4\/assets\/pandectes-logo.png?v=1688088752\" alt=\"Uthra\" \/>"
     },
-    "window": "<div role=\"dialog\" aria-live=\"polite\" aria-label=\"cookieconsent\" aria-describedby=\"cookieconsent:desc\" id=\"pandectes-banner\" class=\"cc-window-wrapper cc-top-wrapper\"><div class=\"pd-cookie-banner-window cc-window {{classes}}\"><!--googleoff: all-->{{children}}<!--googleon: all--><\/div><\/div>",
+    "window": "<div role=\"dialog\" aria-live=\"polite\" aria-label=\"cookieconsent\" aria-describedby=\"cookieconsent:desc\" id=\"pandectes-banner\" class=\"cc-window-wrapper cc-bottom-wrapper\"><div class=\"pd-cookie-banner-window cc-window {{classes}}\"><!--googleoff: all-->{{children}}<!--googleon: all--><\/div><\/div>",
     "compliance": {
       "opt-both": "<div class=\"cc-compliance cc-highlight\">{{deny}}{{allow}}<\/div>"
     },
@@ -327,12 +327,12 @@
     "layouts": {
       "basic": "{{logo}}{{messagelink}}{{compliance}}{{close}}"
     },
-    "position": "top",
+    "position": "bottom",
     "theme": "wired",
     "revokable": true,
     "animateRevokable": false,
     "revokableReset": false,
-    "revokableLogoUrl": "https:\/\/cdn.shopify.com\/s\/files\/1\/0769\/0108\/9599\/t\/4\/assets\/pandectes-reopen-logo.png?v=1688088752",
+    "revokableLogoUrl": "https:\/\/cdn.shopify.com\/s\/files\/1\/0769\/0108\/9599\/t\/4\/assets\/pandectes-reopen-logo.png?v=1688089518",
     "revokablePlacement": "bottom-left",
     "revokableMarginHorizontal": 15,
     "revokableMarginVertical": 15,
