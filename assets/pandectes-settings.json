@@ -5,7 +5,7 @@
     "primaryLocale": "pt",
     "adminMode": false
   },
-  "tsPublished": 1688089724,
+  "tsPublished": 1688090022,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -44,7 +44,7 @@
         "pt": "Aceitar"
       },
       "denyButtonText": {
-        "pt": "Declínio"
+        "pt": "Recusar"
       },
       "leaveSiteButtonText": {
         "pt": "Saia deste site"
@@ -317,7 +317,7 @@
       "imprintHref": "\/",
       "close": "&#10005;",
       "target": "",
-      "logo": "<img class=\"cc-banner-logo\" height=\"40\" width=\"40\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0769\/0108\/9599\/t\/4\/assets\/pandectes-logo.png?v=1688088752\" alt=\"Uthra\" \/>"
+      "logo": "<img class=\"cc-banner-logo\" height=\"40\" width=\"40\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0769\/0108\/9599\/t\/4\/assets\/pandectes-logo.png?v=1688090020\" alt=\"Uthra\" \/>"
     },
     "window": "<div role=\"dialog\" aria-live=\"polite\" aria-label=\"cookieconsent\" aria-describedby=\"cookieconsent:desc\" id=\"pandectes-banner\" class=\"cc-window-wrapper cc-bottom-wrapper\"><div class=\"pd-cookie-banner-window cc-window {{classes}}\"><!--googleoff: all-->{{children}}<!--googleon: all--><\/div><\/div>",
     "compliance": {
