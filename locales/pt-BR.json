@@ -324,7 +324,7 @@
       "regular_price": "Preço normal",
       "from_text_html": "<span>A partir de</span> {{ price }}",
       "quick_shop": "Compra rápida",
-      "more_from_html": "Mais de {{ link }}",
+      "more_from_html": "Mais Produtos",
       "recent_products": "Visto recentemente",
       "reviews": "Avaliações"
     },
