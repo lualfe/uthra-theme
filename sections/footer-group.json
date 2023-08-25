@@ -1,1 +1,85 @@
-{"type":"footer","name":"t:sections.footer-group.name","sections":{"footer-promotions":{"type":"footer-promotions","blocks":{"footer-promotions-0":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","image_width":"100","title":"Pré Treino Uthra","heading_size":"h3","text":"<p>Pré-treino enxuto, que oferece apenas os ingredientes que você precisa.<\/p>","button_label":"Optional button","button_link":"","color_scheme":"1"}},"footer-promotions-1":{"type":"promotion","settings":{"enable_image":true,"image_mask":"none","image_width":"100","title":"Creaplus","heading_size":"h3","text":"<p>Vá ao próximo nível em seus treinos com a nossa Creaplus. Acesse para ver os benefícios.<\/p>","button_label":"Optional button","button_link":"","color_scheme":"3"}}},"block_order":["footer-promotions-0","footer-promotions-1"],"settings":{"hide_homepage":false}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"menu","settings":{"title":"","menu":"footer","enable_account_link":false}},"ec94515a-3a88-452a-b038-bb94e07077d2":{"type":"contact","settings":{"phone":"","contact":"contato","chat":"","enable_social":true}}},"block_order":["footer-0","ec94515a-3a88-452a-b038-bb94e07077d2"],"settings":{"show_newsletter":false,"newsletter_richtext":"","footer_main_menu":true,"show_copyright":true,"copyright_text":"","policies_menu":"footer","show_wave":false}}},"order":["footer-promotions","footer"]}
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "blocks": {
+        "footer-promotions-0": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": "100",
+            "title": "Pré Treino",
+            "heading_size": "h3",
+            "text": "<p>Pré-treino que oferece apenas os ingredientes que você precisa.<\/p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "color_scheme": "1"
+          }
+        },
+        "footer-promotions-1": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": "100",
+            "title": "Creaplus",
+            "heading_size": "h3",
+            "text": "<p>Vá ao próximo nível em seus treinos com a nossa Creaplus. Acesse para ver os benefícios.<\/p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "color_scheme": "3"
+          }
+        }
+      },
+      "block_order": [
+        "footer-promotions-0",
+        "footer-promotions-1"
+      ],
+      "settings": {
+        "hide_homepage": false
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "menu",
+          "settings": {
+            "title": "",
+            "menu": "footer",
+            "enable_account_link": false
+          }
+        },
+        "ec94515a-3a88-452a-b038-bb94e07077d2": {
+          "type": "contact",
+          "settings": {
+            "phone": "",
+            "contact": "contato",
+            "chat": "",
+            "enable_social": true
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "ec94515a-3a88-452a-b038-bb94e07077d2"
+      ],
+      "settings": {
+        "show_newsletter": false,
+        "newsletter_richtext": "",
+        "footer_main_menu": true,
+        "show_copyright": true,
+        "copyright_text": "",
+        "policies_menu": "footer",
+        "show_wave": false
+      }
+    }
+  },
+  "order": [
+    "footer-promotions",
+    "footer"
+  ]
+}
