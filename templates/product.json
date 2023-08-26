@@ -82,7 +82,7 @@
         "description"
       ],
       "settings": {
-        "max_width": false
+        "max_width": true
       }
     },
     "recommendations": {
