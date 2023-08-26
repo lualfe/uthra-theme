@@ -74,7 +74,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "is_tab": false
+            "is_tab": true
           }
         }
       },
@@ -82,7 +82,7 @@
         "description"
       ],
       "settings": {
-        "max_width": true
+        "max_width": false
       }
     },
     "recommendations": {
