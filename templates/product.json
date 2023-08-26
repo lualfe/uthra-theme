@@ -74,7 +74,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "is_tab": true
+            "is_tab": false
           }
         }
       },
