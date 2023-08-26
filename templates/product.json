@@ -71,6 +71,17 @@
     "sub": {
       "type": "product-full-width",
       "blocks": {
+        "0f2f27dc-a61b-4f0d-86f0-ec042d8555e0": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"h3 section-header__title\" style = \"\">A Uthra<\/div>\n<p>\n    <span>\n        A maioria dos suplementos alimentares no mercado são compostos por ingredientes que não dão resultado e não possuem\n        comprovação científica. Aqui na Uthra, colocamos apenas ingredientes comprovados por pesquisas. Por isso na descrição de cada\n        produto você pode ver uma lista de artigos publicados mostrando a eficiência de cada componente do nosso produto.\n    <\/span>\n<\/p>"
+          }
+        },
+        "b8eee6ea-d221-4797-80cf-41fd04afdde3": {
+          "type": "separator",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -79,6 +90,8 @@
         }
       },
       "block_order": [
+        "0f2f27dc-a61b-4f0d-86f0-ec042d8555e0",
+        "b8eee6ea-d221-4797-80cf-41fd04afdde3",
         "description"
       ],
       "settings": {
