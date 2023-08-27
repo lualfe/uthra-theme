@@ -88,11 +88,6 @@
             "is_tab": false
           }
         },
-        "4b84ba34-4eca-43cf-8792-af232f51a8ad": {
-          "type": "separator",
-          "settings": {
-          }
-        },
         "16b834cf-eaaf-43b3-bc91-0f2df21e2327": {
           "type": "tab",
           "settings": {
@@ -106,7 +101,6 @@
         "0f2f27dc-a61b-4f0d-86f0-ec042d8555e0",
         "b8eee6ea-d221-4797-80cf-41fd04afdde3",
         "description",
-        "4b84ba34-4eca-43cf-8792-af232f51a8ad",
         "16b834cf-eaaf-43b3-bc91-0f2df21e2327"
       ],
       "settings": {
