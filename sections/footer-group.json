@@ -38,6 +38,7 @@
         "footer-promotions-0",
         "footer-promotions-1"
       ],
+      "disabled": true,
       "settings": {
         "hide_homepage": false
       }
