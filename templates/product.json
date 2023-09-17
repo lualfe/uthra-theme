@@ -71,12 +71,6 @@
     "sub": {
       "type": "product-full-width",
       "blocks": {
-        "0f2f27dc-a61b-4f0d-86f0-ec042d8555e0": {
-          "type": "custom",
-          "settings": {
-            "code": "<div class=\"rte\">\n    <div class=\"section-header\">\n        <div class=\"h3 section-header__title\">A Uthra<\/div>\n    <\/div>\n    <p>\n        <span>\n            Muitos suplementos alimentares no mercado são cheios de ingredientes que não dão resultado e não possuem\n            comprovação científica. Aqui na Uthra, colocamos apenas ingredientes comprovados por pesquisas, te proporcionando o melhor \n            a cada dose. Por isso na descrição de cada produto você pode ver uma lista de artigos publicados mostrando a eficiência de cada \n            componente do nosso produto.\n        <\/span>\n    <\/p>\n<\/div>"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -91,12 +85,18 @@
             "content": "<p><strong>1.<\/strong> R. Panta, J. N. da S. Filho, Efeitos da Suplementação de creatina na força muscular de praticantes de musculação: Uma Revisão Sistemática. Dialnet (1970), (disponível em https:\/\/dialnet.unirioja.es\/servlet\/articulo?codigo=5343477).<\/p><p><strong>2.<\/strong> Stábile, Ligia; Silva, Fabiane Aparecida da; Oliveira, Luís Carlos Nobre de; Bernardo, Daniela Navarro D' Almeida, Uma breve revisão: a utilização da suplementação de creatina no treinamento de força. 2017, (disponível em https:\/\/pesquisa.bvsalud.org\/portal\/resource\/pt\/biblio-876028).<\/p><p><strong>3.<\/strong> SANTOS, J. P. C. dos .; MARTINS, G. H. da S. .; FERREIRA, J. C. de S. O uso da creatina no treinamento de força e na melhoria do desempenho físico.Research, Society and Development,<em>[S. l.]<\/em>, v. 10, n. 11, p. e59101119410, 2021. DOI: 10.33448\/rsd-v10i11.19410. Disponível em: https:\/\/rsdjournal.org\/index.php\/rsd\/article\/view\/19410. Acesso em: 26 ago. 2023.<\/p><p><strong>4.<\/strong> SILVA, A. M. da .; RODRIGUES JUNIOR, O. M. . Benefícios no uso do suplemento creatina na hipertrofia e força.Research, Society and Development,<em>[S. l.]<\/em>, v. 10, n. 16, p. e136101623886, 2021. DOI: 10.33448\/rsd-v10i16.23886. Disponível em: https:\/\/rsdjournal.org\/index.php\/rsd\/article\/view\/23886. Acesso em: 27 ago. 2023.<\/p><p><strong>5.<\/strong> CassianoL. C., FeitosaF. L. L., LagoV. J., JuniorS. A., ManigliaF. P., & FrancoG. S. (2021). O uso de creatina monohidratada e o possível compromentimento na disfunção renal: revisão narrativa.<em>Revista Eletrônica Acervo Saúde<\/em>,<em>13<\/em>(8), e8609. https:\/\/doi.org\/10.25248\/reas.e8609.2021<\/p><p><strong>6.<\/strong> Mielgo-Ayuso J, Pietrantonio L, Viribay A, Calleja-González J, González-Bernal J, Fernández-Lázaro D. Effect of Acute and Chronic Oral l-Carnitine Supplementation on Exercise Performance Based on the Exercise Intensity: A Systematic Review. Nutrients. 2021 Dec 3;13(12):4359. doi: 10.3390\/nu13124359. PMID: 34959912; PMCID: PMC8704793.<\/p><p><strong>7.<\/strong> Koozehchian MS, Daneshfar A, Fallah E, Agha-Alinejad H, Samadi M, Kaviani M, Kaveh B M, Jung YP, Sablouei MH, Moradi N, Earnest CP, Chandler TJ, Kreider RB. Effects of nine weeks L-Carnitine supplementation on exercise performance, anaerobic power, and exercise-induced oxidative stress in resistance-trained males. J Exerc Nutrition Biochem. 2018 Dec 31;22(4):7-19. doi: 10.20463\/jenb.2018.0026. PMID: 30661327; PMCID: PMC6343764.<\/p><p><strong>8.<\/strong> Fielding R, Riede L, Lugo JP, Bellamine A.l-Carnitine Supplementation in Recovery after Exercise.<em>Nutrients<\/em>. 2018; 10(3):349. https:\/\/doi.org\/10.3390\/nu10030349<\/p><p><strong>9.<\/strong> Stefan M, Sharp M, Gheith R, Lowery R, Ottinger C, Wilson J, Durkee S, Bellamine A. L-Carnitine Tartrate Supplementation for 5 Weeks Improves Exercise Recovery in Men and Women: A Randomized, Double-Blind, Placebo-Controlled Trial.<em>Nutrients<\/em>. 2021; 13(10):3432. https:\/\/doi.org\/10.3390\/nu13103432<\/p><p><strong>10.<\/strong> Victoria Zeghbi Cochenski Borbaand others, Epidemiology of Vitamin D (EpiVida)—A Study of Vitamin D Status Among Healthy Adults in Brazil,<em>Journal of the Endocrine Society<\/em>, Volume 7, Issue 1, January 2023, bvac171,https:\/\/doi.org\/10.1210\/jendso\/bvac171<\/p>",
             "page": ""
           }
+        },
+        "0f2f27dc-a61b-4f0d-86f0-ec042d8555e0": {
+          "type": "custom",
+          "settings": {
+            "code": "<div class=\"rte\">\n    <div class=\"section-header\">\n        <div class=\"h3 section-header__title\">A Uthra<\/div>\n    <\/div>\n    <p>\n        <span>\n            Muitos suplementos alimentares no mercado são cheios de ingredientes que não dão resultado e não possuem\n            comprovação científica, e quando bons ingredientes são colocados, eles estão em quantidades menores do que as adequadas. Aqui na Uthra, colocamos apenas ingredientes comprovados por pesquisas e nas quantidades certas, te proporcionando o melhor a cada dose. Por isso na descrição de cada produto você pode ver uma lista de artigos publicados mostrando a eficiência de cada \n            componente do nosso produto.\n        <\/span>\n    <\/p>\n<\/div>"
+          }
         }
       },
       "block_order": [
-        "0f2f27dc-a61b-4f0d-86f0-ec042d8555e0",
         "description",
-        "16b834cf-eaaf-43b3-bc91-0f2df21e2327"
+        "16b834cf-eaaf-43b3-bc91-0f2df21e2327",
+        "0f2f27dc-a61b-4f0d-86f0-ec042d8555e0"
       ],
       "settings": {
         "max_width": true
