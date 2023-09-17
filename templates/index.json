@@ -388,6 +388,7 @@
         "template--17449255108889__countdown-0-167284938864b7b5e1-2",
         "template--17449255108889__countdown-0-167284938864b7b5e1-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "hero",
         "full_width": false,
@@ -416,6 +417,7 @@
     },
     "scrolling-text-0": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "text": "Entregas no mesmo dia para São Paulo capital",
         "link": "",
