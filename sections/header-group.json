@@ -16,7 +16,7 @@
         "toolbar-1": {
           "type": "announcement",
           "settings": {
-            "richtext": "<p>Desconto de 10% na primeira compra.<\/p>",
+            "richtext": "<p>Cupom \"Primeira Compra\" para 10% de desconto na primeira compra.<\/p>",
             "richtext_mobile": ""
           }
         },
