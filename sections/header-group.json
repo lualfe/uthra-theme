@@ -7,6 +7,7 @@
       "blocks": {
         "toolbar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "richtext": "<p>Entregas no mesmo dia para São Paulo capital.<\/p>",
             "richtext_mobile": ""
@@ -22,7 +23,7 @@
         "1a06f1a7-f61f-4952-b7e6-a6167ea51b9d": {
           "type": "announcement",
           "settings": {
-            "richtext": "<p>Indique nossos produto e ganhe 10% de desconto.<\/p>",
+            "richtext": "<p>Frete Grátis acima de R$200 no estado de SP.<\/p>",
             "richtext_mobile": ""
           }
         }
@@ -32,7 +33,6 @@
         "toolbar-1",
         "1a06f1a7-f61f-4952-b7e6-a6167ea51b9d"
       ],
-      "disabled": true,
       "settings": {
         "announcement_center": false,
         "toolbar_social": true,
