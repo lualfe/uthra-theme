@@ -31,11 +31,18 @@
             "text": "Pagamento seguro"
           }
         },
+        "c9e1e4a2-5b1e-4132-9194-8b6142a23023": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "tag",
+            "text": "Cupom: \"Primeira Compra\""
+          }
+        },
         "55f3f7d8-3b22-4c23-b4d4-e10fee10a419": {
           "type": "sales_point",
           "settings": {
             "icon": "gift",
-            "text": "Cupom de 10% de desconto na primeira compra"
+            "text": "10% de desconto na primeira compra"
           }
         },
         "inventory_status": {
@@ -58,6 +65,7 @@
         "price",
         "sales_point2",
         "sales_point4",
+        "c9e1e4a2-5b1e-4132-9194-8b6142a23023",
         "55f3f7d8-3b22-4c23-b4d4-e10fee10a419",
         "inventory_status",
         "buy_buttons"
