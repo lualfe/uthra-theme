@@ -21,7 +21,7 @@
           "type": "sales_point",
           "settings": {
             "icon": "truck",
-            "text": "Frete grátis para pedidos acima de 200 reais"
+            "text": "Frete grátis  acima de 200 reais no estado de SP."
           }
         },
         "sales_point4": {
