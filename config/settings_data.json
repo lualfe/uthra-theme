@@ -84,6 +84,7 @@
     "predictive_search_enabled": false,
     "show_breadcrumbs": false,
     "show_breadcrumbs_collection_link": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Ativo_80.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
