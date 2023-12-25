@@ -64,7 +64,9 @@
       "result_count": {
         "one": "{{ count }} resultado",
         "other": "{{ count }} resultados"
-      }
+      },
+      "products": "",
+      "suggestions": ""
     },
     "drawers": {
       "navigation": "Navegação",
@@ -139,7 +141,8 @@
       "terms_html": "Eu concordo com os <a href='{{ url }}' target='_blank'>termos e condições<\/a>",
       "terms_confirm": "Você deve concordar com os termos e condições de vendas para verificar",
       "recommended_title": "Vai bem com",
-      "max_quantity": "Solo puedes tener {{ quantity }} de {{ title }} en tu carrito."
+      "max_quantity": "Solo puedes tener {{ quantity }} de {{ title }} en tu carrito.",
+      "shipping_at_checkout_taxes_included": ""
     },
     "label": {
       "price": "Preço",
@@ -331,7 +334,10 @@
     "product": {
       "description": "Descrição",
       "in_stock_label": "Em estoque",
-      "stock_label": "{{ count }} em estoque",
+      "stock_label": {
+        "one": "",
+        "other": ""
+      },
       "sold_out": "Esgotado",
       "unavailable": "Indisponível",
       "quantity": "Quantidade",
@@ -371,5 +377,15 @@
   },
   "date_formats": {
     "month_day_year": "%d de %B de %Y"
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_status": {
+        "delivered_description": "Pedido entregue.",
+        "delivered_title": "Seu pedido foi entregue.",
+        "on_its_way_label": "Enviado",
+        "submitted_label": "Criado"
+      }
+    }
   }
 }
