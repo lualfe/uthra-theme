@@ -9113,7 +9113,7 @@ if (console && console.log) {
 
 })();
 
-(function renameOrderStatus() {
+function renameOrderStatus() {
   var orderStatus = Array.from(document.querySelectorAll('div>div>div>div>div>div>h3'))
   
   var orderCreated = orderStatus.find(el => el.textContent === 'Enviado');
@@ -9121,4 +9121,6 @@ if (console && console.log) {
 
   var orderShipped = orderStatus.find(el => el.textContent === 'Encaminhado');
   orderShipped.textContent = 'Enviado'
-})();
+}
+
+renameOrderStatus();
