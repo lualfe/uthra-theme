@@ -401,6 +401,7 @@
     },
     "blog-posts-0": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "Blog",
         "heading_size": "h3",
