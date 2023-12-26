@@ -169,8 +169,7 @@
         "60fc71c4-0ded-4cca-905f-823ec224ffea"
       ],
       "custom_css": [
-        ".jdgm-form__reviewer-name-format-container {display: none;}",
-        ".jdgm-form__fieldset > p {text-transform: capitalize;}"
+        ".jdgm-form__reviewer-name-format-container {display: none;}"
       ],
       "settings": {
         "full_width": false,
