@@ -76,6 +76,9 @@
         "inventory_status",
         "buy_buttons"
       ],
+      "custom_css": [
+        ".jdgm-widget {margin-bottom: 10px;}"
+      ],
       "settings": {
         "sku_enable": false,
         "image_position": "left",
