@@ -170,7 +170,7 @@
       ],
       "custom_css": [
         ".jdgm-form__reviewer-name-format-container {display: none;}",
-        ".jdgm-form__fieldset > a {color: #00af66;}"
+        ".jdgm-form__fieldset > p > a {color: #00af66;}"
       ],
       "settings": {
         "full_width": false,
