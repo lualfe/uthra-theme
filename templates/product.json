@@ -182,15 +182,6 @@
       "settings": {
         "color_scheme": "2"
       }
-    },
-    "d55b3178-08ad-419f-910c-2306c74fcd33": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -201,7 +192,6 @@
     "more-products-collection",
     "recently-viewed",
     "17035433136327796e",
-    "collection-return",
-    "d55b3178-08ad-419f-910c-2306c74fcd33"
+    "collection-return"
   ]
 }
