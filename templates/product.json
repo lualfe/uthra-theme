@@ -152,13 +152,8 @@
     },
     "recently-viewed": {
       "type": "recently-viewed",
+      "disabled": true,
       "settings": {
-      }
-    },
-    "collection-return": {
-      "type": "collection-return",
-      "settings": {
-        "color_scheme": "2"
       }
     },
     "17035433136327796e": {
@@ -177,6 +172,12 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+        "color_scheme": "2"
+      }
     }
   },
   "order": [
@@ -186,7 +187,7 @@
     "more-products-vendor",
     "more-products-collection",
     "recently-viewed",
-    "collection-return",
-    "17035433136327796e"
+    "17035433136327796e",
+    "collection-return"
   ]
 }
