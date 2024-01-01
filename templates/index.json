@@ -287,18 +287,6 @@
         "blog_image_size": "wide",
         "divider": false
       }
-    },
-    "scrolling-text-0": {
-      "type": "scrolling-text",
-      "settings": {
-        "text": "Frete grátis para compras acima de R$200 em São Paulo",
-        "link": "",
-        "text_size": 20,
-        "text_spacing": true,
-        "direction": "left",
-        "speed": 300,
-        "color_scheme": "none"
-      }
     }
   },
   "order": [
@@ -311,7 +299,6 @@
     "text-with-icons-0",
     "testimonials-0",
     "slideshow-split-0",
-    "blog-posts-0",
-    "scrolling-text-0"
+    "blog-posts-0"
   ]
 }
