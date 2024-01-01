@@ -4,7 +4,7 @@
       "type": "text-and-image",
       "custom_css": [
         "img {object-fit: contain !important;}",
-        ".feature-row {height: 75vh;}"
+        ".feature-row {height: 67vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Ativo_210_6cf6d06a-08f8-4c02-9bd9-463060f95faf.png",
@@ -19,7 +19,7 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "66",
-        "layout": "left",
+        "layout": "right",
         "color_scheme": "1",
         "show_wave": true,
         "divider": false,
