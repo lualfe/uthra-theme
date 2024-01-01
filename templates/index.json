@@ -36,7 +36,7 @@
         "heading_position": "left",
         "home_featured_products": "frontpage",
         "count": 5,
-        "products_per_row": 2,
+        "products_per_row": 3,
         "mobile_scrollable": true,
         "view_all": false,
         "divider": false
