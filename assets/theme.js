@@ -9112,3 +9112,11 @@ if (console && console.log) {
   });
 
 })();
+
+function productsDescription() {
+  var products = Array.from(document.querySelectorAll('.grid-product__title'))
+  products.find(el => el.textContent === 'Creaplus').insertAdjacentHTML('afterend', '<div class="grid-product__vendor">Força, recuperação muscular, hipertrofia</div>');
+  products.find(el => el.textContent === 'Pré Treino').insertAdjacentHTML('afterend', '<div class="grid-product__vendor">Força, foco, concentração</div>');
+}
+
+productsDescription();
