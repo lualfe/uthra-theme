@@ -77,7 +77,8 @@
         "buy_buttons"
       ],
       "custom_css": [
-        ".jdgm-widget {margin-bottom: 10px;}"
+        ".jdgm-widget {margin-bottom: 10px;}",
+        ".product-block--price > label {display: none;}"
       ],
       "settings": {
         "sku_enable": false,
