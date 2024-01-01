@@ -7,8 +7,8 @@
         ".feature-row {height: 67vh;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ativo_210_6cf6d06a-08f8-4c02-9bd9-463060f95faf.png",
-        "image_mask": "square",
+        "image": "shopify:\/\/shop_images\/crossfit-534615_1280.jpg",
+        "image_mask": "splat-3",
         "image2_mask": "square",
         "subtitle": "",
         "title": "Suplementos com comprovação científica",
@@ -18,7 +18,7 @@
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
-        "image_width": "66",
+        "image_width": "50",
         "layout": "right",
         "color_scheme": "1",
         "show_wave": true,
