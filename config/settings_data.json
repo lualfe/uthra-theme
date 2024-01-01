@@ -55,7 +55,7 @@
     "quick_add_enable": true,
     "product_grid_image_size": "square",
     "product_grid_image_fill": true,
-    "product_hover_image": true,
+    "product_hover_image": false,
     "enable_swatches": true,
     "swatch_style": "round",
     "swatch_size": 40,
