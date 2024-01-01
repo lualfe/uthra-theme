@@ -91,24 +91,24 @@
         "promo-grid-0-1": {
           "type": "sale_collection",
           "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50%",
-            "bottom_text": "Off select products",
+            "sale_collection": "frontpage",
+            "top_text": "Desconto de",
+            "middle_text": "10%",
+            "bottom_text": "Na primeira compra",
             "width": "50",
             "color_scheme": "1",
-            "image_mask": "splat-3"
+            "image_mask": "square"
           }
         },
         "promo-grid-0-2": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "creaplus",
             "subheading": "",
-            "heading": "Announce your product",
-            "textarea": "Include text explaining your featured product.",
-            "link_label": "Shop",
-            "label": "New",
+            "heading": "Creaplus",
+            "textarea": "Creatina com carnitina e vitamina D",
+            "link_label": "Saber Mais",
+            "label": "",
             "enable_price": true,
             "width": "50",
             "color_scheme": "2",
@@ -167,46 +167,10 @@
         "heading_size": "h1",
         "heading_position": "center",
         "desktop_columns_per_row": 4,
-        "icon_color": "#cdd4ec",
+        "icon_color": "#fb914a",
         "button_label": "",
         "button_link": "",
-        "divider": false
-      }
-    },
-    "hotspots-0": {
-      "type": "hotspots",
-      "blocks": {
-        "template--17449255108889__hotspots-0-167285017784994d5a-0": {
-          "type": "product",
-          "settings": {
-            "featured_product": "",
-            "vertical": 53,
-            "horizontal": 68
-          }
-        },
-        "template--17449255108889__hotspots-0-167285017784994d5a-1": {
-          "type": "product",
-          "settings": {
-            "featured_product": "",
-            "vertical": 46,
-            "horizontal": 48
-          }
-        }
-      },
-      "block_order": [
-        "template--17449255108889__hotspots-0-167285017784994d5a-0",
-        "template--17449255108889__hotspots-0-167285017784994d5a-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Shop the look",
-        "heading_size": "h2",
-        "heading_position": "left",
-        "indent_image": true,
-        "image_position": "right",
-        "hotspot_style": "bag",
-        "hotspot_color": "#d9e1fc",
-        "lazyload_images": true
+        "divider": true
       }
     },
     "testimonials-0": {
@@ -304,101 +268,6 @@
         "lazyload_images": true
       }
     },
-    "featured-collections-2": {
-      "type": "featured-collections",
-      "blocks": {
-        "featured-collections-2-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured-collections-2-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured-collections-2-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured-collections-2-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured-collections-2-0",
-        "featured-collections-2-1",
-        "featured-collections-2-2",
-        "featured-collections-2-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Popular categories",
-        "heading_size": "h2",
-        "heading_position": "left",
-        "divider": false
-      }
-    },
-    "countdown-0": {
-      "type": "countdown",
-      "blocks": {
-        "template--17449255108889__countdown-0-167284938864b7b5e1-0": {
-          "type": "content",
-          "settings": {
-            "heading": "Contagem Regressiva",
-            "heading_size": "h1",
-            "text": "",
-            "content_alignment": "center"
-          }
-        },
-        "template--17449255108889__countdown-0-167284938864b7b5e1-2": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/collections\/frontpage",
-            "button": "Ver Produtos",
-            "button_style": "solid"
-          }
-        },
-        "template--17449255108889__countdown-0-167284938864b7b5e1-1": {
-          "type": "timer",
-          "settings": {
-            "year": "2023",
-            "month": "09",
-            "day": "20",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17449255108889__countdown-0-167284938864b7b5e1-0",
-        "template--17449255108889__countdown-0-167284938864b7b5e1-2",
-        "template--17449255108889__countdown-0-167284938864b7b5e1-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "layout": "hero",
-        "full_width": false,
-        "color_scheme": "3",
-        "blur_image": true,
-        "overlay_color": "#000000",
-        "overlay_opacity": 30,
-        "lazyload_images": true
-      }
-    },
     "blog-posts-0": {
       "type": "blog-posts",
       "disabled": true,
@@ -418,9 +287,8 @@
     },
     "scrolling-text-0": {
       "type": "scrolling-text",
-      "disabled": true,
       "settings": {
-        "text": "Entregas no mesmo dia para São Paulo capital",
+        "text": "Frete grátis para compras acima de R$200 em São Paulo",
         "link": "",
         "text_size": 20,
         "text_spacing": true,
@@ -438,11 +306,8 @@
     "featured-collection-1",
     "promo-grid-0",
     "text-with-icons-0",
-    "hotspots-0",
     "testimonials-0",
     "slideshow-split-0",
-    "featured-collections-2",
-    "countdown-0",
     "blog-posts-0",
     "scrolling-text-0"
   ]
