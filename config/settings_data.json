@@ -1029,5 +1029,10 @@
 
       ]
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".product-block > label {display: none !important;}"
+    ]
   }
 }

@@ -30,6 +30,9 @@
     },
     "featured-collection-0": {
       "type": "featured-collection",
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "Produtos",
         "heading_size": "h2",
