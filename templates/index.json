@@ -32,14 +32,14 @@
       "type": "featured-collection",
       "settings": {
         "title": "Produtos",
-        "heading_size": "h3",
-        "heading_position": "left",
+        "heading_size": "h2",
+        "heading_position": "center",
         "home_featured_products": "frontpage",
         "count": 5,
         "products_per_row": 3,
         "mobile_scrollable": true,
         "view_all": false,
-        "divider": false
+        "divider": true
       }
     },
     "hero-video-0": {
