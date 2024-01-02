@@ -29,52 +29,52 @@
     endfor
   endif
 
-  assign first_star_status = "jdgm-off"
-  assign second_star_status = "jdgm-off"
-  assign third_star_status = "jdgm-off"
-  assign fourth_star_status = "jdgm-off"
-  assign fifth_star_status = "jdgm-off"
+  assign first_star_status = "jdgm--off"
+  assign second_star_status = "jdgm--off"
+  assign third_star_status = "jdgm--off"
+  assign fourth_star_status = "jdgm--off"
+  assign fifth_star_status = "jdgm--off"
   if product.metafields.reviews.rating_count > 0
     if product.metafields.reviews.rating.value > 0 and product.metafields.reviews.rating.value <= 0.5
-      assign first_star_status = "jdgm-half"
+      assign first_star_status = "jdgm--half"
     elsif product.metafields.reviews.rating.value > 0.5 and product.metafields.reviews.rating.value <= 1
-      assign first_star_status = "jdgm-on"
+      assign first_star_status = "jdgm--on"
     elsif product.metafields.reviews.rating.value > 1 and product.metafields.reviews.rating.value <= 1.5
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-half"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--half"
     elsif product.metafields.reviews.rating.value > 1.5 and product.metafields.reviews.rating.value <= 2
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-on"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--on"
     elsif product.metafields.reviews.rating.value > 2 and product.metafields.reviews.rating.value <= 2.5
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-on"
-      assign third_star_status = "jdgm-half"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--on"
+      assign third_star_status = "jdgm--half"
     elsif product.metafields.reviews.rating.value > 2.5 and product.metafields.reviews.rating.value <= 3
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-on"
-      assign third_star_status = "jdgm-on"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--on"
+      assign third_star_status = "jdgm--on"
     elsif product.metafields.reviews.rating.value > 3 and product.metafields.reviews.rating.value <= 3.5
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-on"
-      assign third_star_status = "jdgm-on"
-      assign fourth_star_status = "jdgm-half"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--on"
+      assign third_star_status = "jdgm--on"
+      assign fourth_star_status = "jdgm--half"
     elsif product.metafields.reviews.rating.value > 3.5 and product.metafields.reviews.rating.value <= 4
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-on"
-      assign third_star_status = "jdgm-on"
-      assign fourth_star_status = "jdgm-on"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--on"
+      assign third_star_status = "jdgm--on"
+      assign fourth_star_status = "jdgm--on"
     elsif product.metafields.reviews.rating.value > 4 and product.metafields.reviews.rating.value <= 4.5
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-on"
-      assign third_star_status = "jdgm-on"
-      assign fourth_star_status = "jdgm-on"
-      assign fifth_star_status = "jdgm-half"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--on"
+      assign third_star_status = "jdgm--on"
+      assign fourth_star_status = "jdgm--on"
+      assign fifth_star_status = "jdgm--half"
     elsif product.metafields.reviews.rating.value > 4.5
-      assign first_star_status = "jdgm-on"
-      assign second_star_status = "jdgm-on"
-      assign third_star_status = "jdgm-on"
-      assign fourth_star_status = "jdgm-on"
-      assign fifth_star_status = "jdgm-on"
+      assign first_star_status = "jdgm--on"
+      assign second_star_status = "jdgm--on"
+      assign third_star_status = "jdgm--on"
+      assign fourth_star_status = "jdgm--on"
+      assign fifth_star_status = "jdgm--on"
     endif
   endif
 -%}
