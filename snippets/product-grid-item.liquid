@@ -275,7 +275,7 @@
               <div class="grid-product__vendor">{{ product.vendor }}</div>
             {%- endif -%}
             {%- if product.metafields.reviews.rating_count > 0 -%}
-              <div style="margin-top: 10px;" class="jdgm-widget jdgm-preview-badge jdgm-preview-badge--with-link jdgm--done-setup">
+              <div style="margin-top: 5px;" class="jdgm-widget jdgm-preview-badge jdgm-preview-badge--with-link jdgm--done-setup">
                 <div style="display:none" class="jdgm-prev-badge" data-average-rating="{{product.metafields.reviews.rating.value}}" data-number-of-reviews="{{product.metafields.reviews.rating_count}}">
                   <span class="jdgm-prev-badge__stars" data-score="{{product.metafields.reviews.rating.value}}" role="button">
                     {%- liquid
