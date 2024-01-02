@@ -271,6 +271,15 @@
           {%- endif -%}
 
           <div class="grid-product__title">{{ product.title }}</div>
+          {%- liquid 
+            assign product_short_description = ""
+            if product.title == "Creaplus"
+              assign product_short_description = "Força, recuperação muscular, hipertrofia"
+            elsif product.title == "Pré Treino"
+              assign product_short_description = "Força, foco, concentração, desempenho"
+            endif
+          -%}
+          <div class="grid-product__vendor">{{product_short_description}}</div>
             {%- if settings.vendor_enable -%}
               <div class="grid-product__vendor">{{ product.vendor }}</div>
             {%- endif -%}
