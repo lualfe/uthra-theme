@@ -9114,8 +9114,15 @@ if (console && console.log) {
 })();
 
 function productsDescription() {
-  document.querySelector("[href='/collections/frontpage/products/creaplus']>.grid-item__meta>.grid-item__meta-main").insertAdjacentHTML('beforeend', '<div class="grid-product__vendor">Força, recuperação muscular, hipertrofia</div>');
-  document.querySelector("[href='/collections/frontpage/products/pre-treino']>.grid-item__meta>.grid-item__meta-main").insertAdjacentHTML('beforeend', '<div class="grid-product__vendor">Força, foco, concentração, desempenho</div>');
+  var creaplus = document.querySelector("[href='/collections/frontpage/products/creaplus']>.grid-item__meta>.grid-item__meta-main")
+  if (creaplus !== null) {
+    creaplus.insertAdjacentHTML('beforeend', '<div class="grid-product__vendor">Força, recuperação muscular, hipertrofia</div>'); 
+  }
+
+  var preTreino = document.querySelector("[href='/collections/frontpage/products/pre-treino']>.grid-item__meta>.grid-item__meta-main")
+  if (preTreino !== null) {
+    preTreino.insertAdjacentHTML('beforeend', '<div class="grid-product__vendor">Força, foco, concentração, desempenho</div>');
+  }
 }
 
 productsDescription();
