@@ -274,6 +274,11 @@
             {%- if settings.vendor_enable -%}
               <div class="grid-product__vendor">{{ product.vendor }}</div>
             {%- endif -%}
+            {%- if product.metafields.reviews.rating_count > 0 -%}
+              <div class="jdgm-widget jdgm-preview-badge jdgm-preview-badge--with-link jdgm--done-setup">
+                <div style="display:none" class="jdgm-prev-badge" data-average-rating="{{product.metafields.reviews.rating.value}}" data-number-of-reviews="{{product.metafields.reviews.rating_count}}"></div>
+              </div>
+            {%- endif -%}
           </div>
           <div class="grid-item__meta-secondary">
             <div class="grid-product__price">
