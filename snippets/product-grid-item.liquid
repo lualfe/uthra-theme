@@ -279,7 +279,8 @@
                 <div style="display:none" class="jdgm-prev-badge" data-average-rating="{{product.metafields.reviews.rating.value}}" data-number-of-reviews="{{product.metafields.reviews.rating_count}}">
                   <span class="jdgm-prev-badge__stars" data-score="{{product.metafields.reviews.rating.value}}" role="button">
                     {%- liquid
-                      assign score = product.metafields.reviews.rating.value.value | times: 1.0
+                      assign val = product.metafields.reviews.rating.value
+                      assign score = val | times: 1.0
                       assign first_star_status = "jdgm--off"
                       assign second_star_status = "jdgm--off"
                       assign third_star_status = "jdgm--off"
@@ -328,7 +329,7 @@
                         assign fifth_star_status = "jdgm--on"
                       endif
                     -%}
-                    <span class="jdgm-star {{first_star_status}}"></span>
+                    <span class="jdgm-star {{first_star_status}}"></span> 
                     <span class="jdgm-star {{second_star_status}}"></span> 
                     <span class="jdgm-star {{third_star_status}}"></span>
                     <span class="jdgm-star {{fourth_star_status}}"></span>
