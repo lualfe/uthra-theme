@@ -148,24 +148,23 @@
           <div class="product-single__meta">
             <div class="product-block product-block--header product-single__header small--hide">
               {{ product_header }}
+              {%- liquid
+                assign creaplus_id = 9071819850047
+                assign pre_workout_id = 9071819882815
+
+                assign weight_and_dosage = ""
+
+                case product.id
+                  when creaplus_id 
+                    assign weight_and_dosage = "180g - 30 doses"
+                  when pre_workout_id
+                    assign weight_and_dosage = "180g - 30 doses"
+                endcase
+              -%}
+              <span class="grid-product__vendor">
+                {{ weight_and_dosage }}
+              </span>
             </div>
-
-            {%- liquid
-              assign creaplus_id = 9071819850047
-              assign pre_workout_id = 9071819882815
-
-              assign weight_and_dosage = ""
-
-              case product.id
-                when creaplus_id 
-                  assign weight_and_dosage = "180g - 30 doses"
-                when pre_workout_id
-                  assign weight_and_dosage = "180g - 30 doses"
-              endcase
-            -%}
-            <span class="grid-product__vendor">
-              {{ weight_and_dosage }}
-            </span>
 
             <div data-product-blocks>
               {%- capture form_id -%}AddToCartForm-{{ section_id }}-{{ product.id }}{%- endcapture -%}
