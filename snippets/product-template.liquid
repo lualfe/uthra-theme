@@ -163,9 +163,9 @@
                   assign weight_and_dosage = "180g - 30 doses"
               endcase
             -%}
-            <div class="grid-product__vendor">
+            <span class="grid-product__vendor">
               {{ weight_and_dosage }}
-            </div>
+            </span>
 
             <div data-product-blocks>
               {%- capture form_id -%}AddToCartForm-{{ section_id }}-{{ product.id }}{%- endcapture -%}
