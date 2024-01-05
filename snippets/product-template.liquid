@@ -150,8 +150,16 @@
               {{ product_header }}
             </div>
 
+            {%- liquid
+              assign weight_and_dosage = ''
+              if product.id == ''
+                assign weight_and_dosage = '180g - 30 doses'
+              elsif product.id == ''
+                assign weight_and_dosage = '180g - 30 doses'
+            -%}
             <div>
-              {{ product.variants.weight_in_unit }}
+              {{ product.id }}
+              {{ weight_and_dosage }}
             </div>
 
             <div data-product-blocks>
