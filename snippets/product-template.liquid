@@ -151,14 +151,18 @@
             </div>
 
             {%- liquid
+              assign creaplus_id = '9071819850047'
+              assign pre_workout_id = '9071819882815'
+
               assign weight_and_dosage = ''
               case product.id
-                when ''
+                when creaplus_id or 
+                  assign weight_and_dosage = '180g - 30 doses'
+                when pre_workout_id
                   assign weight_and_dosage = '180g - 30 doses'
               endcase
             -%}
-            <div>
-              {{ product.id }}
+            <div class="grid-product__vendor">
               {{ weight_and_dosage }}
             </div>
 
