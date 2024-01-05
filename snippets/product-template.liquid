@@ -150,6 +150,10 @@
               {{ product_header }}
             </div>
 
+            <div>
+              {{ product.variants.weight }}
+            </div>
+
             <div data-product-blocks>
               {%- capture form_id -%}AddToCartForm-{{ section_id }}-{{ product.id }}{%- endcapture -%}
               {%- for block in blocks -%}
