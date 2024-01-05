@@ -156,10 +156,10 @@
 
               assign weight_and_dosage = ""
 
-              case product.id
-                when "9071819850047" 
+              case product.id | string
+                when creaplus_id 
                   assign weight_and_dosage = "180g - 30 doses"
-                when "9071819882815"
+                when pre_workout_id
                   assign weight_and_dosage = "180g - 30 doses"
               endcase
             -%}
