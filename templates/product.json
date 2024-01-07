@@ -130,6 +130,7 @@
     },
     "recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_recommendations_heading": "Você vai gostar",
         "related_count": 6,
