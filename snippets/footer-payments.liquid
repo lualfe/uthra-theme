@@ -14,17 +14,19 @@
   if currency_selector or locale_selector
     assign show_selectors = true
   endif
+
+  assign enabled_payment_types = 'visa,master,american_express,pix,jcb,diners_club,discover,elo,hypercard,boleto,hyper' | remove: ' ' | split: ',' 
 -%}
 <div class="footer__mobile-section">
   <div class="footer__blocks--mobile">
     {%- if block.settings.show_payment_icons -%}
-      {%- unless shop.enabled_payment_types == empty -%}
+      {%- unless enabled_payment_types == empty -%}
         <div class="footer__block--mobile">
           <h2 class="footer__title h4">
             {{ 'layout.footer.accepted_payments' | t }}
           </h2>
           <ul class="inline-list payment-icons">
-            {%- for type in shop.enabled_payment_types -%}
+            {%- for type in enabled_payment_types -%}
               <li class="icon--payment">
                 {{ type | payment_type_svg_tag }}
               </li>
