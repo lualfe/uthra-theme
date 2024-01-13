@@ -140,7 +140,7 @@
           "settings": {
             "icon": "shield",
             "title": "Segurança",
-            "text": "<p>Todos os nossos produtos são aprovados pela Anvisa.<\/p>"
+            "text": "<p>Todos os nossos produtos são regulados pela Anvisa.<\/p>"
           }
         },
         "template--17449255108889__text-with-icons-0-16728578819b5da145-2": {
@@ -148,22 +148,13 @@
           "settings": {
             "icon": "thumbs-up",
             "title": "Comprovação",
-            "text": "<p>Nossas fórmulas são criadas com base em pesquisas científicas.<\/p>"
-          }
-        },
-        "template--17449255108889__text-with-icons-0-16728578819b5da145-1": {
-          "type": "text_block",
-          "settings": {
-            "icon": "trophy",
-            "title": "Resultados",
-            "text": "<p>Apenas ingredientes que dão resultados são colocados em nossos produtos.<\/p>"
+            "text": "<p>Nossas fórmulas são criadas com base em pesquisas publicadas.<\/p>"
           }
         }
       },
       "block_order": [
         "template--17449255108889__text-with-icons-0-16728578819b5da145-0",
-        "template--17449255108889__text-with-icons-0-16728578819b5da145-2",
-        "template--17449255108889__text-with-icons-0-16728578819b5da145-1"
+        "template--17449255108889__text-with-icons-0-16728578819b5da145-2"
       ],
       "settings": {
         "title": "",
