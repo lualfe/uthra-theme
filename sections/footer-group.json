@@ -79,21 +79,11 @@
             "chat": "",
             "enable_social": true
           }
-        },
-        "payment_VfFTJg": {
-          "type": "payment",
-          "settings": {
-            "show_payment_icons": true,
-            "show_locale_selector": true,
-            "show_currency_selector": true,
-            "show_currency_flags": true
-          }
         }
       },
       "block_order": [
         "footer-0",
-        "ec94515a-3a88-452a-b038-bb94e07077d2",
-        "payment_VfFTJg"
+        "ec94515a-3a88-452a-b038-bb94e07077d2"
       ],
       "settings": {
         "show_newsletter": false,
