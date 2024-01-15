@@ -45,6 +45,36 @@
         "divider": true
       }
     },
+    "slideshow_image_9q9MQ9": {
+      "type": "slideshow-image",
+      "blocks": {
+        "image_FRYa7z": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/dumbbell-1966247_1280.png"
+          }
+        },
+        "image_BCzmA8": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/training-828741_1280_213af04d-bd93-4ab3-99ae-dd468c907a45.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_FRYa7z",
+        "image_BCzmA8"
+      ],
+      "settings": {
+        "full_width": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "hero-video-0": {
       "type": "hero-video",
       "disabled": true,
@@ -283,6 +313,7 @@
   "order": [
     "text-and-image-0",
     "featured-collection-0",
+    "slideshow_image_9q9MQ9",
     "hero-video-0",
     "logo-list-0",
     "featured-collection-1",
