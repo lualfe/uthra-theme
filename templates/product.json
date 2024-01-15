@@ -137,27 +137,6 @@
         "products_per_row": 3
       }
     },
-    "more-products-vendor": {
-      "type": "more-products-vendor",
-      "settings": {
-        "products_per_row": 3,
-        "max_products": 5
-      }
-    },
-    "more-products-collection": {
-      "type": "more-products-collection",
-      "disabled": true,
-      "settings": {
-        "products_per_row": 3,
-        "max_products": 5
-      }
-    },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "disabled": true,
-      "settings": {
-      }
-    },
     "17035433136327796e": {
       "type": "apps",
       "blocks": {
@@ -179,6 +158,27 @@
         "space_around": true
       }
     },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+      }
+    },
     "collection-return": {
       "type": "collection-return",
       "settings": {
@@ -190,10 +190,10 @@
     "main",
     "sub",
     "recommendations",
+    "17035433136327796e",
     "more-products-vendor",
     "more-products-collection",
     "recently-viewed",
-    "17035433136327796e",
     "collection-return"
   ]
 }
