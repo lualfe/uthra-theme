@@ -29,6 +29,13 @@
             "text": "{{ product.metafields.custom.short_description.value }}"
           }
         },
+        "sales_point_MGYigr": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "shield",
+            "text": "Ingredientes aprovados pela Anvisa"
+          }
+        },
         "sales_point2": {
           "type": "sales_point",
           "settings": {
@@ -63,6 +70,7 @@
         "price",
         "8229782d-1126-4a36-b762-55a3a86eedb0",
         "sales_point_4ha6Mp",
+        "sales_point_MGYigr",
         "sales_point2",
         "sales_point4",
         "inventory_status",
