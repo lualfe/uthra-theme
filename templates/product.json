@@ -22,6 +22,13 @@
           "settings": {
           }
         },
+        "sales_point_4ha6Mp": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "{{ product.metafields.custom.short_description.value }}"
+          }
+        },
         "sales_point2": {
           "type": "sales_point",
           "settings": {
@@ -34,20 +41,6 @@
           "settings": {
             "icon": "lock",
             "text": "Pagamento seguro"
-          }
-        },
-        "c9e1e4a2-5b1e-4132-9194-8b6142a23023": {
-          "type": "sales_point",
-          "settings": {
-            "icon": "tag",
-            "text": "Cupom: \"Primeira Compra\""
-          }
-        },
-        "55f3f7d8-3b22-4c23-b4d4-e10fee10a419": {
-          "type": "sales_point",
-          "settings": {
-            "icon": "gift",
-            "text": "10% de desconto na primeira compra"
           }
         },
         "inventory_status": {
@@ -69,10 +62,9 @@
         "variant_picker",
         "price",
         "8229782d-1126-4a36-b762-55a3a86eedb0",
+        "sales_point_4ha6Mp",
         "sales_point2",
         "sales_point4",
-        "c9e1e4a2-5b1e-4132-9194-8b6142a23023",
-        "55f3f7d8-3b22-4c23-b4d4-e10fee10a419",
         "inventory_status",
         "buy_buttons"
       ],
