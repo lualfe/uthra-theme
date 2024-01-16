@@ -32,7 +32,7 @@
         "sales_point_MGYigr": {
           "type": "sales_point",
           "settings": {
-            "icon": "shield",
+            "icon": "ribbon",
             "text": "Ingredientes aprovados pela Anvisa"
           }
         },
