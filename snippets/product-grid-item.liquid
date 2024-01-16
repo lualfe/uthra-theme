@@ -271,7 +271,7 @@
           {%- endif -%}
 
           <div class="grid-product__title">{{ product.title }}</div>
-          <div class="grid-product__vendor">{{ product.metafields.my_fields.short_description.value }}</div>
+          <div class="grid-product__vendor">{{ product.metafields.short_description.value }}</div>
             {%- if settings.vendor_enable -%}
               <div class="grid-product__vendor">{{ product.vendor }}</div>
             {%- endif -%}
