@@ -16,7 +16,7 @@
         "toolbar-1": {
           "type": "announcement",
           "settings": {
-            "richtext": "<p>Cupom \"Primeira Compra\" para 10% de desconto na primeira compra.<\/p>",
+            "richtext": "<p>Entrega em até 2 dias na cidade de São Paulo.<\/p>",
             "richtext_mobile": ""
           }
         },
