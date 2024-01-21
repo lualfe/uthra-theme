@@ -7,9 +7,8 @@
       "blocks": {
         "toolbar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "richtext": "<p>Entregas no mesmo dia para São Paulo capital.<\/p>",
+            "richtext": "<p>Aceitamos parcelamento em 2x.<\/p>",
             "richtext_mobile": ""
           }
         },
