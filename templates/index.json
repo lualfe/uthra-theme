@@ -3,8 +3,7 @@
     "text-and-image-0": {
       "type": "text-and-image",
       "custom_css": [
-        "img {object-fit: contain !important;}",
-        ".feature-row {height: 70vh;}"
+        "img {object-fit: contain !important}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/crossfit-534615.jpg",
